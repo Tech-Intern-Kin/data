@@ -1,0 +1,2282 @@
+user_ns,user_id,first_name,last_name,name,gender,email,phone,channel,status,locale,language,timezone,ip,country,region,city,address,postcode,platform,browser,device,device_type,referrer,landing_page,lead_source,lead_status,department,interest,market,profile_pic,subscribed,opted_in_email,opted_in_sms,opted_in_through,last_interaction,last_agent_action_at,last_seen,last_message_type,last_message_at,agent_id,agent_name,agent_email,Abandon,adventurous,AgeGroup,AIText_response,Budget,Difficulty_Picking,Food,GrapeBreed,Occasion,Occasions,Savant,Scenario,StorePurchase,Why_not_like,Wine 1,Wine 2,Wine 3,Wine 4,Wine 5,Wine Type,WinePurchaseFreq,Wines_not_liking,World,Wine Recommendations,Prompt
+f83423u74430051,1.71E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,1.36.228.200,HK,HCW,Central,,,macOS,Chrome,Apple,Desktop,https://www.uchat.com.au/flow/f83423,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,3/26/2024 15:10,,,,8/12/2024 14:52,,,out,8/12/2024 14:52,0,,,,,,"Based on the search results, here are three sparkling wines suitable for daily drinking within a budget of HKD200-500 and easily available in Hong Kong:
+
+1. **Champagne Jean Jacques Lamoureux Cuvee Alexandrine Blanc de Blanc Millesime**:
+   - Origin: France, Champagne region.
+   - Description: An easy-to-drink, crispy, and refreshing Champagne made from Chardonnay grapes, suitable for daily enjoyment within the specified budget range.
+
+2. **Pierre Trichet LâAuthentique Brut Champagne Premier Cru**:
+   - Origin: France, Champagne region.
+   - Description: Another Champagne option perfect for daily drinking, offering a refreshing and easy-to-drink experience, ideal for casual consumption.
+
+3. **Francis Orban Champagne Extra Brut Blanc de Meunier**:
+   - Origin: France, Champagne region.
+   - Description: This Champagne made from Pinot Meunier grapes provides a crispy and refreshing profile, making it a great choice for daily drinking occasions.
+
+These sparkling wines should be within your budget and provide a delightful daily drinking experience.",HKD200-500,,Aglio E Olio Pasta,,,Daily Drinking,,S1,,,,,,,,Sparkling Wines,,,,"1. **Mionetto Prestige Rose**: This Italian Prosecco Rosé is a great pairing for Aglio E Olio Pasta due to its crisp acidity and fruity flavors, which complement the spicy kick from the red pepper flakes in the pasta dish.
+2. **Veuve Clicquot Yellow Label Brut Champagne**: For a more luxurious option, Veuve Clicquot's Yellow Label Brut is an excellent choice. Its fine bubbles and subtle citrus notes will enhance the delicate flavors of the Aglio E Olio Pasta without overpowering it.
+3. **Barefoot Bubbly Pink Moscato**: This sweet and fruity sparkling wine from California pairs nicely with the rich flavors of the pasta dish. The Moscato's floral and peach notes will balance out the savory elements, creating a delightful match.
+
+These recommendations should satisfy your taste buds and budget!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Aglio E Olio Pasta
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Sparkling Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u99888813,1.72E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,219.77.68.250,HK,NYL,Ha Tsuen,,,macOS,Chrome,Apple,Desktop,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,6/26/2024 10:02,,,,8/9/2024 9:57,,,out,8/9/2024 9:58,0,,,,,,"For your fine dining occasion in Hong Kong within the budget of HKD 500-1000, here are three wine recommendations that are easily available:
+
+1. ChÃ¢teau Clos Fourtet 2015 (Saint-Ãmilion)
+2. Domaine de Chevalier 2012 (Pessac-LÃ©ognan)
+3. Tenuta San Guido Guidalberto 2017 (Tuscany)
+
+These wines are excellent choices to enhance your dining experience and are known for their quality and unique characteristics. Enjoy your fine dining experience with these exquisite wines! .",HKD500-1000,,,,,Fine Dining,,S1,,,,,,,,Wines,,,,"1. **Chateau Ste. Michelle Eroica Riesling** (Washington, USA)
+	* This wine is a great match for fine dining due to its complex and refined flavor profile.
+2. **Meiomi Pinot Noir** (California, USA)
+	* A light-bodied Pinot Noir with flavors of cherry and earthy notes that pairs well with delicate dishes in fine dining settings.
+3. **Concha y Toro Don Melchor Cabernet Sauvignon** (Maipo Valley, Chile)
+	* A full-bodied Cabernet Sauvignon with blackcurrant and spice notes that complements the rich flavors found in fine dining cuisine.
+
+These wines should provide a good starting point for your fine dining occasions within the specified budget.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Fine Dining
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u99889313,1.72E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,1.36.228.200,HK,HCW,Central,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,6/26/2024 10:07,,,,9/19/2024 23:49,,,out,9/19/2024 23:49,0,,,,,,"Here are three red wine recommendations for your daily drinking occasion within a budget of HKD 500-1000 that are easily available in Hong Kong:
+
+1. ChÃ¢teau Clinet
+2. ChÃ¢teau Desmirail
+3. ChÃ¢teau Malescot St. Exupery
+
+These wines offer a range of flavors and are within your specified price range for an enjoyable daily drinking experience in Hong Kong.",HKD500-1000,,,,,Daily Drinking,,S1,,,,,,,,Red Wines,,,,"1. **Bodegas Borsao Garnacha** (around HKD250)
+This Spanish wine is a great value for its quality and price. Made from Garnacha grapes, it offers flavors of dark fruit, spice, and subtle vanilla notes that are well-balanced and easy to drink.
+2. **Château Ste. Michelle Columbia Valley Cabernet Sauvignon** (around HKD350)
+This American wine is a classic example of a smooth and approachable Cabernet Sauvignon. It has flavors of blackcurrant, blackberry, and subtle oak notes that are well-integrated, making it perfect for daily drinking.
+3. **Apothic Red Blend** (around HKD450)
+This California red blend offers a rich and velvety texture with flavors of dark fruit, chocolate, and spices. It's a great option for those who prefer a smoother wine without overpowering tannins.
+
+All three wines are readily available in Hong Kong within your budget and offer excellent value for their quality and taste profiles.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u120719159,1.72E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,14.0.180.158,HK,NYL,Yuen Long San Hui,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,8/14/2024 4:45,,,,8/16/2024 17:31,,,out,8/16/2024 17:32,0,,,,,,"Here are 3 white wines that fit your budget of HKD 200-500 and are suitable for pairing with food in Hong Kong:
+
+1. **Cloudy Bay Sauvignon Blanc**
+2. **Chablis Montee de Tonnerre, Louis Jadot**
+3. **Cambria Estate Winery Juliaâs Vineyard**
+
+These wines should offer a good balance of quality and value for your occasion.",HKD200-500,,Chinese dishese,,,Pairing with Food,,S1,,,,,,,,White Wines,,,,"
+
+**Recommendation 1:** **Meiomi Chardonnay (HKD250-$320)**
+
+* Why: Meiomi's Chardonnay is a rich and creamy white wine that pairs well with the complex flavors found in many Chinese dishes. Its buttery notes complement the savory aspects of Peking duck, while its acidity cuts through the richness of stir-fries.
+
+**Recommendation 2:** **Kim Crawford Sauvignon Blanc (HKD220-$300)**
+
+* Why: This crisp and refreshing Sauvignon Blanc is perfect for cutting through the bold flavors of Szechuan cuisine. Its citrus notes will enhance the bright, zesty flavors in dishes like Kung Pao chicken or boiled fish.
+
+**Recommendation 3:** **Pascal Jolivet Sancerre (HKD300-$400)**
+
+* Why: For those who prefer a more elegant and minerally white wine, Pascal Jolivet's Sancerre is an excellent choice. Its bright acidity and flavors of green apple will complement the delicate flavors in Cantonese dishes like steamed fish or dim sum.
+
+These wines are all widely available in Hong Kong and should be easy to find at local wine shops or online retailers. Enjoy exploring these options!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Chinese dishese
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u139134193,1.73E+15,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,14.0.164.125,HK,KSS,Hoi Ying Estate,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,9/20/2024 11:30,,,,9/20/2024 12:22,,,out,9/20/2024 12:22,0,,,,,,"Based on the available data, here are three red wines suitable for pairing with food within a budget of HKD 200-500 that are commonly available in Hong Kong:
+
+1. ChÃ¢teau Meyney, Pomerol
+2. Chateau Rauzan Gassies, Margaux
+3. Le Petit Ducru De Ducru-Beaucaillou, Saint Julien
+
+These wines are recommended for their compatibility with beef and venison dishes and fall within the specified budget range. Enjoy your wine pairing experience!",HKD200-500,,Fish,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1. **Château Saint-Pierre Cru Bourgeois** (2014) - HKD $220
+This wine pairs well with fish due to its subtle, nuanced flavor profile and crisp acidity, which complements delicate flavors without overpowering them.
+
+2. **Carmenère Reserve Maipo Valley** (2015) - HKD $240
+The Carmenère grape breed is known for its rich, full-bodied taste, making it an excellent match for fish. This wine's smooth tannins and dark fruit flavors will complement grilled or pan-seared fish dishes nicely.
+
+3. **Malbec Mendoza Reserve** (2016) - HKD $300
+This Malbec offers a velvety texture and intense fruit flavors that will pair well with rich fish dishes like salmon or tuna. Its smooth tannins also make it suitable for those who prefer a milder wine.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u152267837,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Kolkata,2409:40d0:102c:b20f:c9e2:3574:a4c8:8a5e,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,10/16/2024 21:54,,,,10/16/2024 21:54,,,out,10/16/2024 21:54,0,,,,,,,HKD 1000 or Above,,Peking Duck,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1.  **Château Lafite Rothschild** (Bordeaux, France): This iconic red wine is a classic pairing for Peking Duck due to its complex and subtle flavor profile. It offers a rich mix of blackcurrant, spice, and dark chocolate notes.
+2.  **Penfolds Grange Shiraz** (South Australia): As one of the world's most renowned Shiraz wines, Penfolds Grange is an excellent choice for Peking Duck lovers. Its bold, full-bodied taste features dark fruit flavors, subtle spices, and a hint of vanilla, making it an ideal pairing.
+3.  **Opus One** (Napa Valley, California): This luxurious red blend combines the finest grapes from some of Napa's most iconic vineyards. It offers an intense mix of blackberry, black cherry, and hints of tobacco, creating a rich and sophisticated taste experience that complements Peking Duck beautifully.
+
+All three recommendations are priced above HKD 1000 and should be available at high-end wine retailers or specialty stores in Hong Kong.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Peking Duck
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u152405861,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,219.77.81.103,HK,HCW,Central,,,macOS,Chrome,Apple,Desktop,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,10/17/2024 7:48,,,,12/5/2024 9:19,,,out,12/5/2024 9:19,0,,,TRUE,,,"For pairing with food at a budget of HKD 500-1000 in Hong Kong, here are three red wine recommendations:
+
+1. **ChÃ¢teau Talbot** (Cabernet Sauvignon, Aconcagua Valley, Chile)
+2. **ChÃ¢teau Desmirail** (Merlot, Margaux, France)
+3. **ChÃ¢teau Malescot St. Exupery** (Cabernet Sauvignon, Saint Julien, France)
+
+These red wines offer a balance of quality and value, making them excellent choices for enhancing your dining experience within the specified budget while being readily available in Hong Kong. Enjoy your meal with these well-suited red wines!",HKD500-1000,,sushi,,,Quick Dinner,,S1,,,,,,,,White,,,,"1.  **Meiomi Sauvignon Blanc** (HKD250-300)
+This wine is crisp and refreshing, making it an excellent choice to pair with sushi. Its citrus and green apple notes will complement the delicate flavors of your meal.
+
+2.  **Santa Margherita Pinot Grigio** (HKD350-400)
+With its floral and fruity aromas, this Italian Pinot Grigio is a great match for light seafood dishes like sushi. Its crisp acidity cuts through the richness of the fish, creating a delightful harmony.
+
+3.  **Kim Crawford Sauvignon Blanc** (HKD400-450)
+This New Zealand Sauvignon Blanc is known for its zesty citrus flavors and herbaceous notes, which will enhance your sushi experience. Its refreshing taste and moderate price make it an excellent choice for a quick dinner.
+
+These wines are all within your budget of HKD500-1000 and offer distinct flavor profiles that will complement the delicate flavors of sushi.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: sushi
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u152409101,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,219.77.81.103,HK,HCW,Central,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,10/17/2024 8:04,,,,10/17/2024 8:05,,,in,10/17/2024 8:05,0,,,,,,,HKD 1000 or Above,,Peking duck,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1. **Château Lafite Rothschild 2014** (Bordeaux, France) - This wine is a classic pairing for Peking duck due to its smooth tannins and elegant flavor profile, which complements the rich flavors of the dish.
+2. **Penfolds Grange Bin 95A 2013** (South Australia, Australia) - This iconic Australian wine has a robust and full-bodied structure that can stand up to the bold flavors of Peking duck, while its dark fruit flavors will enhance the overall dining experience.
+3. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon 2014** (Napa Valley, California) - This Napa Valley cabernet is a great match for Peking duck due to its rich and velvety texture, with flavors of dark fruit and subtle spices that will complement the dish's savory flavors.
+
+All three wines are priced above HKD 1000 and offer an exceptional pairing experience with Peking duck.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Peking duck
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u152409923,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,219.77.81.103,HK,HCW,Central,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,10/17/2024 8:09,,,,10/17/2024 8:09,,,out,10/17/2024 9:19,0,,,,,,,HKD 1000 or Above,,Peking duck,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1.  **Chateau Lafite Rothschild** (Bordeaux, France) - This wine is a classic pairing for Peking duck due to its rich, full-bodied flavors of dark fruit, spice, and subtle oak notes that complement the savory and slightly sweet flavors of the dish.
+2.  **Domaine de la Romanee-Conti La Tache** (Burgundy, France) - This wine is a great match for Peking duck due to its bright acidity and elegant tannins, which help cut through the richness of the dish while its complex fruit flavors of cherry, raspberry, and blackberry enhance the overall experience.
+3.  **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** (Napa Valley, California) - This wine is a great choice for Peking duck due to its rich, velvety texture and flavors of dark fruit, spice, and subtle vanilla notes that complement the savory and slightly sweet flavors of the dish.
+
+Each of these wines offers a unique character that will pair well with Peking duck.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Peking duck
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u152601025,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Kolkata,2a02:26f7:d6c4:6801:0:f59c:89be:52a2,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,10/17/2024 14:22,,,,10/30/2024 17:23,,,out,10/30/2024 17:23,0,,,,,,"Based on the available options, I recommend the following three White Wines for daily drinking in Hong Kong within the budget of HKD 1000 or above:
+
+1. **Detunda Blanc de Blancs**
+2. **Cloudy Bay Sauvignon Blanc**
+3. **La Chablisienne Chablis Village âLa PierrelÃ©eâ**
+
+These wines offer different flavor profiles and are suitable for daily enjoyment within your specified budget. Enjoy your wine selection in Hong Kong!",HKD 1000 or Above,,Peking Duck,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1. **Château Lafon-Rochet** (Saint Estèphe, Bordeaux) - This full-bodied Bordeaux wine is a great match for the rich flavors of Peking duck. The wine's tannins will complement the savory elements, while its dark fruit flavors and subtle spices will enhance the overall dining experience.
+2. **Penfolds Grange** (South Australia) - This iconic Australian Shiraz is known for its intense flavor profile, which includes dark fruits, chocolate, and spice notes. The wine's robust tannins will stand up to the bold flavors of Peking duck, making it a perfect pairing for this dish.
+3. **Château Rauzan-Ségla** (Médoc, Bordeaux) - This Right Bank Bordeaux offers a more elegant approach to pairing with Peking duck. The wine's silky texture and balanced tannins will complement the crispy skin and savory flavors of the duck, while its subtle fruit and spice notes will enhance the overall experience.
+
+These recommendations should provide a great starting point for your wine pairings with Peking duck!","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Peking Duck
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u159393071,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,182.239.88.164,HK,NKT,Kwai Chung,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/1/2024 13:30,,,,11/1/2024 13:31,,,out,11/1/2024 13:31,0,,,,,,"Here are 3 red wines within your budget of HKD 500-1000 that would pair well with food and are easily available in Hong Kong:
+
+1. La Croix Ducru-Beaucaillou CuvÃ©e Colbert: This Cabernet Sauvignon wine offers a complex profile with structure and depth, making it a great choice for pairing with beef or venison dishes. It fits within your budget range and should be available in Hong Kong.
+
+2. ChÃ¢teau Malescot St. Exupery: Another Cabernet Sauvignon wine with a complex and structured profile, ideal for pairing with beef or venison. This wine falls within your budget and should be readily accessible in Hong Kong.
+
+3. ChÃ¢teau Desmirail: This Merlot wine offers complexity and structure, perfect for pairing with red meat dishes. It should be within your budget range and easy to find in Hong Kong.
+
+These wines should complement your occasion well, offering a delightful drinking experience alongside your meal. Enjoy your wine pairing!",HKD500-1000,,peking duck,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1. **Meiomi Pinot Noir** (HKD$350-$450): This Pinot Noir is a great match for Peking duck due to its light-bodied texture and flavors of cherry, raspberry, and subtle spices. The wine's acidity cuts through the richness of the duck.
+2. **Masi Campofiorin** (HKD$400-$550): This Italian blend of Corvina, Rondinella, and Molinara grapes offers a smooth, velvety texture and flavors of plum, blackberry, and a hint of spice. The wine's moderate acidity complements the duck's savory flavors.
+3. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** (HKD$600-$800): For those who prefer a bolder red wine, this Napa Valley Cabernet Sauvignon is an excellent choice. With its rich tannins and flavors of dark fruit, spice, and subtle oak, it pairs well with the savory and umami flavors of Peking duck.
+
+These recommendations are based on your preference for Red Wines and their suitability to pair with Peking duck. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: peking duck
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u163427471,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:6801:0:486f:23d1:a39c,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/8/2024 14:00,,,,11/16/2024 13:45,,,out,11/17/2024 12:12,0,,,,,,"Based on the available data, here are three red wines suitable for fine dining occasions with a budget of HKD 200-500 and easily available in Hong Kong:
+
+1. ChÃ¢teau Branaire-Ducru from Margaux, France
+2. Chateau Lynch Moussas from France
+3. ChÃ¢teau Pouget from Pessac Leognan, France
+
+These wines are complex with structure and depth, making them excellent choices for pairing with beef or venison dishes. Enjoy your fine dining experience with these red wine selections!",HKD200-500,,Peking Duck,,,Fine Dining,,S1,,,,,,,,Red Wines,,,,"1. **Château La Tour Carnet** (Haut-Médoc, Bordeaux, France)
+	* A classic Bordeaux blend of Cabernet Sauvignon, Merlot, and Cabernet Franc
+	* Balanced acidity and tannins make it a great match for Peking Duck's crispy skin and savory flavors
+	* Price: around HKD250-300
+2. **Apothic Red Blend** (California, USA)
+	* A rich and full-bodied blend of Syrah, Merlot, and Cabernet Sauvignon
+	* Dark fruit flavors and smooth tannins complement the sweetness and richness of Peking Duck's sauce
+	* Price: around HKD180-220
+3. **La Crema Sonoma Coast Pinot Noir** (Sonoma County, California, USA)
+	* A light-bodied Pinot Noir with flavors of cherry, raspberry, and earthy notes
+	* Its acidity cuts through the richness of Peking Duck's sauce, while its fruitiness complements the dish's sweet and savory aspects
+	* Price: around HKD220-280
+
+These wines should provide a great match for your fine dining experience with Peking Duck. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Peking Duck
+- Grape Breed: nan
+- Occasions: Fine Dining
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u164594135,1.73E+16,Gv,,,,,,web,open,,en-US,Asia/Kolkata,2402:e280:221a:1b:3187:427:f85c:a595,IN,DL,Delhi,,,macOS,Chrome,Apple,Desktop,https://www.uchat.com.au/flow/f83423,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/11/2024 7:20,,,,11/17/2024 4:14,11/14/2024 8:54,,out,11/17/2024 4:14,68447,AI_ChatBot,gauravbidalia@gmail.com,,,,"Here are three red wines priced at HKD 1000 or above that are suitable for daily drinking in Hong Kong:
+
+1. ChÃ¢teau Clinet (CÃ´te de Nuits)
+2. Chateau Ducru-Beaucaillou (Saint Julien)
+3. ChÃ¢teau Smith Haut Lafitte (Pessac Leognan)
+
+These wines offer excellent quality and are within your specified budget range, providing a delightful daily drinking experience in Hong Kong. Cheers!",HKD 1000 or Above,,,Merlot,,Daily Drinking,TRUE,s5,,,ChÃ¢teau Clinet (CÃ´te de Nuits),Chateau Ducru-Beaucaillou (Saint Julien),,,,Red Wines,,,,"1. Château Lafon-Rochet Saint-Estèphe (2015) - A full-bodied wine with flavors of dark fruit, spice and subtle oak nuances.
+2. Château Clerc Milon Pauillac (2014) - Offers a rich texture with blackberry and cassis notes accompanied by soft tannins and an elegant finish.
+3. Château Troplong Mondot Saint-Émilion Grand Cru (2015) - A complex wine showcasing dark fruit, licorice and subtle vanilla flavors with firm tannins.
+
+These recommendations are expert-level suggestions based on your taste profile for Merlot wines suitable for daily drinking.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: Merlot
+- Occasions: Daily Drinking
+- Expert-level suggestions: True
+- Scenario: s5
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u165798245,1.73E+16,Guest,,,,,,web,open,,zh-HK,America/Chicago,207.226.8.91,US,,Hong Kong,,,macOS,Chrome,Apple,Desktop,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/13/2024 10:32,,,,11/19/2024 3:53,,,out,11/19/2024 3:53,68447,AI_ChatBot,gauravbidalia@gmail.com,,,,"I'm unable to retrieve the wine list to provide you with specific recommendations for red wines within your budget for pairing with food in Hong Kong. If you're able to reupload the file, I can assist you in selecting suitable red wines for your occasion.",HKD500-1000,,Beef wellington,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Château Saint-Pierre** (HKD $460)
+	* This Bordeaux blend from St-Julien offers a balance of dark fruit flavors and smooth tannins, complementing the richness of Beef Wellington.
+2. **Apothic Red Blend** (HKD $320)
+	* With its velvety texture and flavors of blackberry, black cherry, and hints of spice, this California blend will enhance the savory aspects of the dish without overpowering it.
+3. **Grenache-based Châteauneuf-du-Pape** (e.g., Château Rayas, HKD $900)
+	* This French wine offers a rich, full-bodied experience with flavors of dark fruit, garrigue, and spices that will pair nicely with the tender beef and flaky pastry.
+
+These wines should provide a good match for your Beef Wellington dinner without breaking the bank. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Beef wellington
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166313385,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2401:4900:30df:b7bb:6160:bbf1:7e8a:ee30,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 4:50,,,,11/14/2024 4:50,,,out,11/14/2024 4:50,0,,,,,,"Here are three red wines that fit your criteria of being priced at HKD 1000 or above and are of high quality for daily drinking in Hong Kong:
+
+1. ChÃ¢teau Clinet (Merlot) - CÃ´te de Nuits, France
+2. Chateau Ducru-Beaucaillou (Merlot) - Saint Julien, France
+3. ChÃ¢teau Smith Haut Lafitte (Cabernet Sauvignon) - Pessac Leognan, France
+
+Enjoy your daily drinking with these exquisite red wines!",HKD 1000 or Above,,,,,Daily Drinking,,S1,,,,,,,,Red Wines,,,,"1.  **Apothic Red Blend** ($280-$330 HKD) - This California-based blend of Syrah, Merlot, and Cabernet Sauvignon offers rich, dark fruit flavors with hints of chocolate and spice.
+2.  **Château Saint-Pierre St-Juli** ($300-$350 HKD) - Hailing from Bordeaux, France, this wine features a smooth, elegant taste profile with notes of plum, blackberry, and subtle oak nuances.
+3.  **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** ($400-$450 HKD) - This Napa Valley Cabernet showcases complex flavors of dark fruit, spice, and subtle earthy undertones, complemented by fine tannins.
+
+These recommendations cater to your preference for red wines without any specific grape breed or food pairing requirements. Enjoy exploring these options!","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166313595,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,59.91.220.214,IN,DL,Delhi,,,Android,Mobile Chrome,,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 4:51,,,,11/14/2024 4:51,,,out,11/14/2024 4:51,0,,,,,,"Here are three Sparkling Wines that would be suitable for your fine dining occasion in Hong Kong within your budget of HKD 200-500:
+
+1. Pierre Trichet LâAuthentique Brut Champagne Premier Cru
+2. Francis Orban Champagne Extra Brut Blanc de Meunier
+3. Veuve Clicquot
+
+Enjoy your fine dining experience with these exquisite Sparkling Wines!",HKD200-500,,,,,Fine Dining,,S1,,,,,,,,Sparkling Wines,,,,"1. **Veuve Clicquot Yellow Label Brut Champagne**: A classic champagne with a rich and complex flavor profile, featuring notes of apple, brioche, and citrus. Its fine bubbles complement fine dining experiences.
+2. **Laurent-Perrier Cuvée Brut Champagne**: This prestige cuvée showcases elegance and refinement, with flavors of white flowers, citrus, and a hint of toasted bread. Its subtle complexity makes it an excellent choice for fine dining.
+3. **Graham Beck Brut Rosé NV (Western Cape, South Africa)**: A rosé champagne-style wine with a delicate color and flavors of strawberries, red fruit, and subtle vanilla notes. Its crisp acidity and smooth texture make it perfect for pairing with a variety of dishes.
+
+These recommendations cater to your taste preferences without exceeding your budget, ensuring an enjoyable fine dining experience with each glass.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Fine Dining
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Sparkling Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166313717,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2401:4900:30df:b7bb:6160:bbf1:7e8a:ee30,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 4:51,,,,11/14/2024 4:51,,,out,11/14/2024 4:52,0,,,,,,"Here are three red wines for your daily drinking occasion within a budget of HKD 1000 or above that are easily available in Hong Kong:
+
+1. Chateau Ducru-Beaucaillou from Saint Julien, France
+2. ChÃ¢teau Clinet from CÃ´te de Nuits, France
+3. ChÃ¢teau Smith Haut Lafitte from France
+
+Enjoy your wine selection!",HKD 1000 or Above,,,,,Daily Drinking,,S1,,,,,,,,Red Wines,,,,"1. **Château Lafite Rothschild 2015** (Bordeaux, France) - This iconic wine is a great representation of Bordeaux's grand style, with complex flavors of dark fruit, spices, and subtle oak notes. Its aging potential and silky tannins make it an excellent choice for daily drinking.
+2. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon 2015** (Napa Valley, California) - This Cabernet Sauvignon is a masterclass in balance and structure, with flavors of blackberry, black cherry, and subtle hints of vanilla and spices. Its smooth tannins make it an enjoyable drink now, while its aging potential ensures it will continue to improve over time.
+3. **Penfolds Grange 2014** (South Australia) - This iconic Australian Shiraz is a benchmark for the region, offering intense flavors of dark fruit, spice, and subtle oak notes. Its robust tannins and concentrated fruit make it an excellent choice for those seeking a full-bodied wine.
+
+All three wines are available in Hong Kong for above HKD 1000. Please note that prices may vary depending on the retailer and availability.
+
+Would you like me to suggest any food pairing or other recommendations?","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166313903,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,59.91.220.214,IN,DL,Delhi,,,Android,Mobile Chrome,,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 4:52,,,,11/14/2024 4:53,,,out,11/14/2024 4:53,0,,,,,,"Here are three Red Wines available in Hong Kong within the budget of HKD 200-500 that you may consider for daily drinking:
+
+1. Alter Ego de Palmer
+2. ChÃ¢teau Meyney
+3. Chateau Rauzan Gassies
+
+Enjoy your daily wine selections!",HKD200-500,,,,,Daily Drinking,,S1,,,,,,,,Red Wines,,,,"1. For a smooth, approachable experience, consider the **Apothic Red Blend** (HKD 240). This Californian blend is rich in dark fruit flavors with hints of chocolate and vanilla, making it perfect for daily drinking.
+
+2. The **Meiomi Pinot Noir** (HKD 280) offers a balanced taste profile with notes of strawberry, raspberry, and subtle earthy undertones. Its smooth acidity and tannins make it an excellent choice for everyday consumption.
+
+3. For a bold yet approachable wine, try the **Masi Campofiorin** (HKD 380). This Italian red wine combines Corvina grapes with other local varieties, resulting in a rich, fruity taste experience with hints of spice and moderate tannins, suitable for daily sipping.
+
+All three recommendations are within your budget and cater to your preference for Red Wines.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166367123,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d2:33:a860:1890:681:f2f:cfbe,IN,UP,Bijnor,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 9:11,,,,11/14/2024 9:11,,,out,11/14/2024 9:11,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1.  **Describe your taste preferences**: Consider sharing your favorite fruits, desserts, or cuisines that you enjoy. This will help me better understand what flavors and characteristics you might appreciate in a wine.
+2.  **Consider your budget**: Since you mentioned ""budget: nan,"" I'll assume you're open to any price range. However, if you'd like to provide a specific budget, I can suggest wines within that range.
+3.  **Think about the occasion**: Are you looking for a wine for a special event, a casual evening with friends, or a romantic dinner?
+4.  **Grape variety and wine type**: Do you have a preference for red, white, sparkling, or rosé wines? Some popular grape varieties include Chardonnay, Pinot Noir, Cabernet Sauvignon, Merlot, and Syrah/Shiraz.
+5.  **Wine purchase frequency**: Are you a regular wine consumer looking to try something new or a novice looking for an introduction to the world of wine?
+6.  **Store purchase preference**: Do you have a preferred store where you like to shop for wine, or are you open to suggestions?
+
+Once I have more information about your preferences and habits, I can provide more tailored recommendations for wines that match your taste profile.
+
+If you're ready to share your preferences, feel free to answer the questions above or add any additional details you think might help me make better recommendations.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166440841,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,103.205.245.183,IN,UK,Mussoorie,,,iOS,Mobile Chrome,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 12:10,,,,11/14/2024 12:11,,,out,11/17/2024 16:11,0,,,,,,"Here are three white wines that would be suitable for pairing with food within your budget of HKD 1000 or above, and are likely to be easily available in Hong Kong:
+
+1. Chavy Chouet Puligny Montrachet Les EnseignÃ¨res
+2. Aile d'Argent Blanc du Chateau Mouton Rothschild
+3. Chassagne Montrachet, Domaine Marc Morey & Fils
+
+Enjoy your wine selection for the occasion!",HKD 1000 or Above,,Beef,,,Pairing with Food,,S1,,,,,,,,White Wines,,,,"1. **Meursault 2014 by Domaine Arnaud Ente**: This Burgundian Chardonnay is rich and complex, with flavors of butter, vanilla, and a hint of oak. Its full-bodied texture and long finish make it an excellent match for grilled or roasted beef.
+2. **Kamptal Grüner Veltliner 2017 by Hiedler**: This Austrian white wine offers a unique blend of minerality and white pepper notes, complemented by citrus and green apple flavors. Its crisp acidity and medium body make it a great pairing for beef-based dishes with a lighter sauce.
+3. **Meursault Blanc 2015 by Comte de Vogüé**: Another Burgundian Chardonnay, this wine is known for its elegance and finesse. With flavors of stone fruit, honey, and a hint of spice, it pairs beautifully with roasted or pan-seared beef.
+
+All three wines are high-end options that should fit within your budget of HKD 1000 or above. Enjoy exploring these recommendations!","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Beef
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u166621651,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2401:4900:30d1:66c2:e8d5:ac3f:c5ad:f104,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/14/2024 16:46,,,,11/14/2024 16:46,,,out,11/14/2024 16:46,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1.  **Chardonnay**: A buttery and oaky Chardonnay can complement dishes with rich flavors like seafood, poultry, or creamy sauces.
+2.  **Pinot Noir**: A light-bodied Pinot Noir with red fruit flavors and high acidity pairs well with delicate flavors like salmon, vegetarian dishes, or charcuterie boards.
+3.  **Merlot**: A smooth Merlot with plum and blackberry flavors can complement heartier dishes like pasta, pizza, or grilled meats.
+
+These wines are popular for their approachability and versatility in pairing with a range of cuisines.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168055971,1.73E+16,Jason,,,,jasonl4u@gmail.com,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6cc:4000:658e:1ee5:f1b:f6e2,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 12:14,11/17/2024 13:11,,,11/17/2024 13:11,11/17/2024 13:09,,in,11/17/2024 13:11,68447,AI_ChatBot,gauravbidalia@gmail.com,,,26  - 35,"I found some red wine options within your budget range and food pairing preferences:
+
+1. **La Croix Ducru-Beaucaillou CuvÃ©e Colbert**
+2. **ChÃ¢teau Talbot**
+3. **ChÃ¢teau Desmirail**
+
+These wines are ideal for pairing with beef or venison dishes and should be within the HKD 500-1000 price range in Hong Kong. Enjoy your wine selection!",HKD500-1000,,Beef Wellington,Merlot,,Pairing with Food,TRUE,S2,,,,,,,,Red Wines,,,,"1. **Château Ste Michelle Columbia Valley Merlot** (HKD 380): This wine is a great choice because it has a rich and smooth flavor profile, which will complement the beef in Beef Wellington without overpowering it. Its plum and blackberry flavors will also enhance the overall taste experience.
+
+2. **Caymus Special Selection Merlot** (HKD 620): This full-bodied Merlot is an excellent match for Beef Wellington as its complex flavors of dark fruit, chocolate, and spices will complement the savory and umami tastes in the dish. Its smooth tannins will also ensure a velvety finish.
+
+3. **Silver Oak Alexander Valley Merlot** (HKD 840): This wine has a rich, full-bodied flavor profile with notes of blackberry, plum, and spice. Its long finish and well-integrated tannins make it an excellent pairing for Beef Wellington, as the flavors will linger on the palate without overpowering the dish.
+
+These recommendations are based on your taste preferences for Merlot, beef-based dishes, and a smooth flavor profile.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Beef Wellington
+- Grape Breed: Merlot
+- Occasions: Pairing with Food
+- Expert-level suggestions: True
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168085119,1.73E+16,Luna,,,,lunaqiu72@gmail.com,,web,open,,en-US,Asia/Kolkata,2409:40d0:12:e7a1:d5fa:20a:3546:3e2c,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:33,11/17/2024 13:34,,,11/17/2024 13:34,,,in,11/17/2024 13:34,0,,,,,18 - 25,,,,,,,,,S2,,,,,,,,,,,,"1. **Pinot Grigio**: A crisp and refreshing white wine from Italy that pairs well with light meals, seafood, and salads. Its citrus and green apple flavors make it an excellent choice for those who prefer a clean and easy-drinking wine.
+2. **Merlot**: A smooth and approachable red wine from Bordeaux, France, or California, USA. Merlot offers plum, blackberry, and chocolate notes that complement a wide range of dishes, including pasta, pizza, and grilled meats.
+3. **Sauvignon Blanc**: A zesty and herbaceous white wine from the Loire Valley in France or Marlborough in New Zealand. Its citrus, grapefruit, and grassy flavors make it an excellent choice for seafood, salads, and asparagus-based dishes.
+
+These wines are generally easy to find and pair well with a variety of cuisines, making them suitable for casual gatherings or everyday consumption. If you have any specific preferences or requirements, feel free to provide more information so I can tailor my suggestions to your taste profile!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168085657,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:4000:30fc:4980:94eb:2668,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:35,,,,11/17/2024 13:35,,,out,11/17/2024 13:35,0,,,,,,"Here are three white wine recommendations for daily drinking within your budget of HKD 500-1000 that are easily available in Hong Kong:
+1. **Detunda Blanc de Blancs**
+2. **Cloudy Bay Sauvignon Blanc**
+3. **Castello Di Querceto** 
+
+Enjoy your daily drinking occasions with these quality white wines!",HKD500-1000,,,,,Daily Drinking,,S1,,,,,,,,White Wines,,,,"1. **Meursault Blanc** by Domaine Pierre Morey (HKD 800) - A classic Chardonnay from Burgundy, known for its rich, buttery, and oaky flavors with a hint of vanilla.
+2. **Albariño** by Martin Códax (HKD 550) - A crisp and refreshing white wine from the Rías Baixas region in Spain, offering citrus and stone fruit notes with a touch of saltiness.
+3. **Assyrtiko** by Skouras (HKD 650) - A dry and zesty white wine from Greece, featuring citrus, green apple, and herbal flavors with a refreshing acidity.
+
+These wines are all well-regarded for their quality and character, and should appeal to your taste preferences.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168086307,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6cc:4000:45c2:b9a5:b468:7694,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:37,,,,11/17/2024 13:39,,,out,11/17/2024 13:39,0,,,,,,"Here are three red wine recommendations for your occasion in Hong Kong within the budget range of HKD 200-500:
+
+1. ChÃ¢teau Meyney - Pomerol
+2. Le Petit Ducru De Ducru-Beaucaillou - Pessac Leognan
+3. ChÃ¢teau Branaire-Ducru - France.",HKD200-500,,Beef,,,Pairing with Food,,S1,,,,,,,,Red Wines,,,,"1. **Apothic Cabernet Sauvignon** (HKD230-280)
+This wine is a great match for those who enjoy full-bodied reds with intense flavors. Apothic's Cabernet Sauvignon offers dark fruit notes, spices, and subtle oak nuances that complement the richness of beef.
+2. **Meiomi Pinot Noir** (HKD250-300)
+For those who prefer lighter to medium-bodied wines, Meiomi Pinot Noir is an excellent choice. Its flavors of cherry, raspberry, and earthy undertones pair nicely with grilled or roasted beef dishes.
+3. **Conquista Rioja Reserva** (HKD320-380)
+This Spanish red wine offers a balanced blend of fruitiness, acidity, and subtle oak aging. Conquista's Rioja Reserva has flavors of dark berries, leather, and tobacco that complement the bold flavors of beef.
+
+These recommendations should cater to your taste preferences for pairing with beef within your budget.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Beef
+- Grape Breed: nan
+- Occasions: Pairing with Food
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168086783,1.73E+16,Christy,,,,hdxak@abc.com,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:891c:7a82:d453:6136,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:38,11/17/2024 13:39,,,11/17/2024 13:39,,,in,11/17/2024 13:39,0,,,,,26  - 35,,,,,,,,,S2,,,,,,,,,,,,"I'm unable to provide a response based on the input. It seems like there are no preferences or specifications provided for selecting wine recommendations. Can you please provide more information about your taste profile, such as preferred grape varieties, level of sweetness, tannins, and any specific flavor profiles you enjoy? This will help me give you personalized wine suggestions.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168087087,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:891c:7a82:d453:6136,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:39,,,,11/17/2024 13:39,,,out,11/17/2024 13:40,0,,,,,,"Here are three White Wines within the HKD 100-200 budget range that you can consider for daily drinking occasions in Hong Kong:
+
+1. R de Rieussec Blanc Sec
+2. La Chablisienne Chablis Village âLa PierrelÃ©eâ
+3. Cloudy Bay Sauvignon Blanc
+
+These wines are within your budget and suitable for daily drinking. Enjoy your selection!",HKD100-200,,,,,Daily Drinking,,S1,,,,,,,,White Wines,,,,"1. **Meiomi Chardonnay** (HKD120): A smooth and approachable California Chardonnay with flavors of vanilla, caramel, and a hint of oak. Its creamy texture and balanced acidity make it perfect for everyday sipping.
+2. **Alamos Torrontés** (HKD90): This Argentine white wine is known for its crisp acidity and floral aromas. With flavors of citrus, green apple, and a touch of spice, Alamos Torrontés is a refreshing choice for hot days or pairing with lighter fare.
+3. **Kim Crawford Sauvignon Blanc** (HKD150): A zesty and herbaceous New Zealand Sauvignon Blanc from the renowned Kim Crawford winery. Its citrus and grapefruit flavors are balanced by a crisp acidity, making it an excellent choice for daily drinking.
+
+Each of these wines offers a unique character that suits your preference for white wines without breaking the bank.","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168087195,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c5:4000:58ff:3d44:b1c3:e694,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:40,,,,11/17/2024 13:40,,,out,11/17/2024 13:40,0,,,,,,"I found some options of red wines within your budget of HKD 1000 or above that are available in Hong Kong:
+
+1. ChÃ¢teau Clinet - CÃ´te de Nuits, France
+2. Chateau Ducru-Beaucaillou - Saint Julien, France
+3. ChÃ¢teau Smith Haut Lafitte - Pessac Leognan, France
+
+These wines are suitable for daily drinking and should provide a delightful experience. Enjoy your wine tasting experience!",HKD 1000 or Above,,,,,Daily Drinking,,S1,,,,,,,,Red Wines,,,,"1. Château Lafite Rothschild 2014**
+A classic Bordeaux from Pauillac, with a rich, complex flavor profile of dark fruit, spices, and subtle oak notes. Its smooth tannins make it perfect for daily drinking. (HKD $900-$1000)
+
+**2. Opus One 2015**
+A California-based Bordeaux-style blend from Robert Mondavi Winery, offering a full-bodied taste experience with flavors of blackberry, black cherry, and spices. Its velvety texture and subtle oak nuances make it an ideal choice for daily drinking. (HKD $800-$900)
+
+**3. Château Margaux 2014**
+A renowned wine from the Margaux appellation in Bordeaux, boasting a rich, elegant flavor profile with notes of dark fruit, spices, and subtle earthy undertones. Its refined tannins make it suitable for daily consumption. (HKD $600-$800)
+
+These wines are all high-end options that will satisfy your taste buds and fit within your budget. Enjoy exploring these recommendations!","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168087611,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:891c:7a82:d453:6136,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:41,,,,11/17/2024 13:41,,,out,11/17/2024 13:41,0,,,,,,"Here are three white wines recommended for daily drinking within your budget for an occasion in Hong Kong:
+
+1. Detunda Blanc de Blancs
+2. Cloudy Bay Sauvignon Blanc
+3. Domaine Jean Dauvissat Pere et Fils
+
+These wines are suitable for daily enjoyment and fall within the specified budget range. Cheers!",HKD500-1000,,,,,Daily Drinking,,S1,,,,,,,,White Wines,,,,"1. **Meursault Vieilles Vignes 2014** by Pierre Morey (HKD550)
+This wine is a great representation of the Meursault region in Burgundy, known for its rich and complex flavors. The Vieilles Vignes version is made from old vines, which adds depth and structure to the wine.
+2. **Gewürztraminer 2016** by Trimbach (HKD480)
+This Alsatian Gewürztraminer offers a unique blend of floral, lychee, and spicy flavors. Its off-dry style makes it an excellent pairing for Asian cuisine or as an apéritif.
+3. **Assyrtiko 2017** by Sigalas (HKD450)
+This Greek white wine is made from the indigenous Assyrtiko grape variety, known for its crisp acidity and minerality. This wine is perfect for those who enjoy a refreshing and easy-drinking style.
+
+These recommendations should provide you with a good starting point for exploring new white wines within your budget. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168087667,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c5:4000:5c24:407b:2a9:2187,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:41,,,,11/17/2024 13:41,,,out,11/17/2024 13:41,0,,,,,,"Here are three Sparkling Wines within the HKD500-1000 budget range that are easily available in Hong Kong:
+
+1. MoÃ«t
+2. Taittinger
+3. Henri Abele
+
+Enjoy your daily drinking occasions with these refreshing Sparkling Wines!",HKD500-1000,,,,,Daily Drinking,,S1,,,,,,,,Sparkling Wines,,,,"1. **Veuve Clicquot Yellow Label Brut Champagne**: A classic champagne with a rich flavor profile, featuring notes of apple, toast, and subtle citrus. The acidity is well-balanced, making it a great choice for daily drinking. (Price: HKD800-1000)
+2. **Bollinger Special Cuvee Brut Champagne**: This prestige cuvée offers a more complex and elegant taste experience, with flavors of toasted bread, dried fruit, and hints of spice. The wine has a smooth finish, making it perfect for sipping on its own or pairing with light meals. (Price: HKD900-1100)
+3. **Pierre Peters Cuvée de Réserve Brut Champagne**: This champagne boasts an elegant and refined taste profile, with flavors of apple, pear, and subtle hints of toasty notes. The acidity is crisp and refreshing, making it a great choice for daily drinking or special occasions. (Price: HKD600-800)
+
+All three recommendations are high-quality sparkling wines that fit your budget and meet your requirements. They're perfect for daily drinking and suitable for various occasions. Enjoy exploring these options!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Daily Drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Sparkling Wines
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168087963,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:4000:1ce0:f849:a9ec:7f53,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/17/2024 13:42,,,,11/17/2024 13:42,,,out,11/17/2024 13:42,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Chardonnay - Buttery & Oaky**
+
+If you enjoy rich, creamy wines with hints of vanilla and oak, consider a buttery Chardonnay. The oaky flavors will complement dishes like roasted chicken or pork chops.
+
+**2. Pinot Noir - Fruity & Light-bodied**
+
+For those who prefer lighter-bodied wines with red fruit flavors (strawberry, cherry), Pinot Noir is an excellent choice. It pairs well with delicate fish, vegetarian dishes, or a solo evening glass.
+
+**3. Malbec - Bold & Full-bodied**
+
+If you enjoy full-bodied wines with dark fruit flavors and smooth tannins, Malbec might be your cup of tea. This Argentinean varietal pairs nicely with grilled meats (beef, lamb), stews, or robust cheese plates.
+
+Please let me know if any of these resonate with you, or provide more information about your taste preferences so I can offer more specific recommendations!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168584089,1.73E+15,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:4000:48c3:2b06:deb:9d95,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:16,,,,11/18/2024 10:18,,,out,11/18/2024 10:18,0,,,TRUE,,,,HKD500-1000,,,,,Partying and Events,,S1,,,,,,,,Red,,,,"1. **Chateau Ste. Michelle Cabernet Sauvignon** (HKD $480-600)
+This wine is a great choice for those who enjoy a classic, full-bodied red wine. It's made from 100% Cabernet Sauvignon grapes, offering flavors of blackcurrant, blackberry, and subtle hints of spice.
+
+2. **Masi Campofiorin** (HKD $500-650)
+This Italian wine is an excellent choice for those who enjoy a rich, velvety texture and complex flavor profile. It's a blend of Corvina and Rondinella grapes, offering flavors of plum, cherry, and hints of oak.
+
+3. **Berton Vineyards The Black Shiraz** (HKD $300-500)
+For those who prefer a bold and fruit-forward red wine, this Australian Shiraz is an excellent choice. It's known for its rich, dark fruit flavors and smooth tannins, making it perfect for pairing with various dishes or enjoying on its own.
+
+All three wines should fit your budget of HKD $500-1000 and are suitable for parting and events due to their bold and festive nature. Enjoy exploring these recommendations!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168584827,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:4000:aea0:7ee:5f47:29f6,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:19,,,,11/18/2024 10:20,,,out,11/18/2024 10:20,0,,,,,,,HKD 1000 or Above,,,,,Partying and Events,,S1,,,,,,,,Red,,,,"1. **Chateau Lafite Rothschild** (Bordeaux, France) - This iconic wine is a perfect choice for special occasions like parties and events. With its complex flavors of dark fruit, spice, and subtle oak notes, it's sure to impress your guests.
+2. **Opus One** (Napa Valley, California, USA) - A blend of Bordeaux-style grapes, Opus One offers a rich and full-bodied taste experience with hints of blackberry, black cherry, and subtle vanilla undertones. Its smooth tannins make it an excellent choice for sipping or pairing with robust dishes.
+3. **Penfolds Grange** (South Australia) - This Australian Shiraz is considered one of the greatest wines in the world, and for good reason! With its intense flavors of blackberry, chocolate, and subtle spices, it's a perfect fit for those who appreciate bold reds. Its aging potential makes it an excellent choice for cellaring.
+
+All three wines are within your budget of HKD 1000 or above and should provide a memorable experience for your special occasions.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168585249,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c5:4000:3293:add2:5c40:2253,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:21,,,,11/18/2024 10:21,,,out,11/18/2024 10:21,0,,,,,,,HKD 1000 or Above,,,,,Partying and Events,,S1,,,,,,,,Red,,,,"1. **Chateau Lafite Rothschild 2010** (HKD $800-$1000)
+A classic Bordeaux blend from one of the world's most renowned wineries. This wine offers a rich, full-bodied experience with complex flavors of dark fruit, spice, and subtle oak notes. Its elegance and refinement make it an excellent choice for special occasions.
+2. **Penfolds Grange 2014** (HKD $800-$1000)
+A flagship Shiraz from Australia's Penfolds winery, known for its bold, full-bodied style. This wine boasts intense flavors of dark fruit, chocolate, and spice, with a rich, velvety texture. Its robust character makes it perfect for those who enjoy a more intense red wine experience.
+3. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon 2016** (HKD $600-$800)
+A Napa Valley Cabernet Sauvignon from a renowned winery, offering a balanced and refined take on the varietal. This wine features flavors of blackcurrant, blackberry, and subtle oak notes, with a smooth, velvety texture. Its approachable style makes it suitable for those who prefer a more elegant red wine.
+
+These recommendations offer a range of styles to suit your partying and event needs. Remember that prices may vary depending on the retailer and availability.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168586147,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c5:4000:9f96:d891:349a:ee99,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:24,,,,11/18/2024 10:24,,,out,11/18/2024 10:26,0,,,,,,,HKD500-1000,,Beef,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Meursault Village 2016 by Domaine Pierre Morey**: This Burgundy white wine is a great match for beef dishes. It's a buttery, oaky Chardonnay with flavors of vanilla, caramel, and stone fruits. Its rich texture and balanced acidity will complement the richness of your beef dinner. (Price: around HKD 550)
+2. **Albariño from Martin Códax** (Rías Baixas, Spain): This crisp and refreshing Albariño is perfect for a quick dinner. Its citrus and stone fruit flavors will cut through the fattiness of beef, while its minerality adds depth to the wine. The acidity is lively, making it an excellent pairing for lighter beef dishes like grilled steak or skewers. (Price: around HKD 400)
+3. **Gewürztraminer from Domaine Weinbach** (Alsace, France): If you prefer a sweeter white wine, this Gewürztraminer is a great option. Its floral and lychee aromas will complement the bold flavors of beef, while its off-dry style balances the richness of the meat. The wine's acidity is also refreshing, making it a great pairing for grilled or pan-seared beef dishes. (Price: around HKD 650)
+
+All three wines are within your budget and offer unique flavor profiles to match your taste preferences. Enjoy your quick dinner!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Beef
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168586753,1.73E+15,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c5:4000:486c:89af:566:f13c,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:26,,,,11/18/2024 10:30,,,in,11/18/2024 10:30,0,,,,,,,HKD500-1000,,Fish,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **meursault village, burgundy, france** - a rich and buttery chardonnay with flavors of vanilla, caramel, and stone fruit that pairs well with fish dishes.
+2. **albariño, rías baixas, spain** - a crisp and refreshing white wine with citrus, green apple, and mineral notes that complements the delicate flavor of fish.
+3. **gewürztraminer, alsace, france** - a dry and aromatic white wine with lychee, rose petal, and ginger flavors that will complement the subtle taste of fish without overpowering it.
+
+all three wines are within your budget range (hk$500-1000) and are suitable for quick dinner occasions.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u168587777,1.73E+15,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2a02:26f7:d6c4:4000:9de2:5d8a:684b:dec5,IN,MH,Mumbai,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/18/2024 10:31,,,,11/18/2024 10:51,,,out,11/18/2024 13:35,0,,,TRUE,,,,HKD500-1000,,Fish,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. Meursault Vieilles Vignes 2015 by Domaine Pierre Morey**
+This Burgundy white wine is a great match for fish dishes, particularly those with delicate flavors like sole or sea bass. The wine's creamy texture and subtle oak notes will complement the fish without overpowering it.
+
+**2. Sauvignon Blanc by Cloudy Bay 2019**
+If you prefer a crisper and more refreshing white wine, this Sauvignon Blanc from Marlborough, New Zealand, is an excellent choice. Its citrus flavors and grassy notes will pair nicely with lighter fish dishes like grilled salmon or tilapia.
+
+**3. Grüner Veltliner by Hiedler 2018**
+This Austrian white wine offers a great balance of acidity and minerality, making it a perfect match for fish dishes with bold flavors like seafood paella or grilled tuna. The wine's white pepper notes will add an interesting dimension to your meal.
+
+All three wines are within your budget of HKD500-1000 and can be found in most wine stores or online retailers.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169092023,1.73E+16,Ash Fong,,,,fongchunyinashley@gmail.com,,web,open,,en-US,America/Chicago,207.226.8.91,US,,,,,macOS,Chrome,Apple,Desktop,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/19/2024 4:52,11/26/2024 6:03,,,12/4/2024 6:28,,,in,12/4/2024 6:28,0,,,TRUE,,26  - 35,,HKD 1000 or Above,,Scandinavian dish,Pinot Noir,,Quick Dinner,TRUE,S1,,,,,,,,Red,,,Old World,"1.  **Domaine Serene Yamhill Pinot Noir** (Oregon, USA): This wine is a great match due to its elegant and refined style, with flavors of red fruit, spice, and subtle earthy notes that will complement the delicate flavors of Scandinavian cuisine.
+2.  **Kosta Browne Russian River Valley Pinot Noir** (California, USA): With its rich and full-bodied texture, this wine is an excellent choice for a quick dinner, as it pairs well with the heartiness of Scandinavian dishes while still showcasing the nuances of Pinot Noir.
+3.  **Comte de Vogue Bourgogne Pinot Noir** (Burgundy, France): This wine's refined tannins and subtle flavors of red fruit, earth, and spice will complement the complex flavors of Scandinavian cuisine, making it an excellent choice for a special occasion or a quick dinner with friends.
+
+Each of these recommendations offers a unique interpretation of Pinot Noir that should suit your taste preferences.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Scandinavian dish
+- Grape Breed: Pinot Noir
+- Occasions: Quick Dinner
+- Expert-level suggestions: True
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169740539,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,14.0.164.168,HK,,,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 12:07,,,,11/26/2024 5:30,,,out,11/26/2024 5:30,0,,,TRUE,,,,HKD500-1000,,Peking Duck,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Meiomi Pinot Noir** (HKD 250-300)
+A smooth, approachable Pinot Noir that pairs well with the crispy skin of Peking Duck. Its flavors of cherry, raspberry, and subtle earthy notes will complement the savory duck without overpowering it.
+2. **Caymus Special Selection Cabernet Sauvignon** (HKD 400-500)
+For a richer, full-bodied experience, try this iconic Cabernet Sauvignon from Napa Valley. Its complex flavors of black currant, blackberry, and spices will complement the duck's richness while its smooth tannins won't overpower your palate.
+3. **Penfolds Bin 28 Kalimna Shiraz** (HKD 600-800)
+If you prefer a more robust red wine, this Australian Shiraz is an excellent choice. Its dark fruit flavors, spices, and subtle oak notes will complement the duck's savory flavors while its smooth tannins ensure a long, satisfying finish.
+
+These wines are all within your budget of HKD500-1000 and should pair well with Peking Duck for a quick dinner. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Peking Duck
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169888133,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,152.58.121.96,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:44,,,,11/20/2024 16:45,,,out,11/20/2024 16:45,0,,,,,,,HKD500-1000,,Fish,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Santa Margherita Pinot Grigio** (Italy) - A crisp and refreshing Pinot Grigio from Italy's famous Santa Margherita winery. This wine pairs well with fish and is a great choice for a quick dinner.
+2. **Meiomi Chardonnay** (California, USA) - A buttery and oaky Chardonnay that complements the richness of fish dishes. Meiomi's Chardonnay is a smooth and approachable wine that won't break the bank.
+3. **Kim Crawford Sauvignon Blanc** (Marlborough, New Zealand) - A zesty and citrusy Sauvignon Blanc from Marlborough, one of the world's premier regions for this grape variety. Kim Crawford's Sauvignon Blanc is a great match for fish and seafood dishes.
+
+All three wines are priced around HKD500-1000 and should be widely available in wine stores or online retailers in Hong Kong. Enjoy your quick dinner!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169889443,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:48,,,,11/20/2024 16:48,,,out,11/20/2024 16:48,0,,,,,,,HKD500-1000,,,,,daily drinking,,S1,,,,,,,,Red,,,,"1. **Apothic Red Blend (HKD200-300)**: This California-based blend is a crowd-pleaser with its smooth texture and flavors of plum, blackberry, and hints of spice. It's an excellent choice for daily drinking.
+2. **Masi Campofiorin Rosso del Veronese (HKD400-500)**: A classic Italian red wine from the Veneto region, made from a blend of Corvina, Rondinella, and Molinara grapes. Expect flavors of cherry, plum, and a hint of bitterness, making it a great choice for those who enjoy a slightly more complex taste.
+3. **Quinta do Noval Vintage Port (HKD800-1000)**: For a special occasion or as a treat, consider this rich and full-bodied Portuguese wine. Made from a blend of Touriga Nacional, Tinta Roriz, and other indigenous grapes, it offers intense flavors of dark fruit, chocolate, and spices.
+
+These recommendations should cater to your taste preferences and budget. Enjoy exploring these options!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169889459,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:1a:2048:652a:f955:ba2c:f4f,IN,DL,Delhi,,,Android,Mobile Chrome,,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:48,,,,11/20/2024 16:56,,,in,11/20/2024 16:56,68447,AI_ChatBot,gauravbidalia@gmail.com,,,,,HKD500-1000,,,,,Celebration,,S4,,,,,,,,Red,,,,"1. **Chateau Ste Michelle Cabernet Sauvignon Columbia Valley Washington State USA**
+This full-bodied Cabernet Sauvignon has flavors of dark fruit, spice, and subtle oak notes, making it perfect for special occasions like celebrations. Its smooth finish will complement a variety of dishes without overpowering them.
+
+2. **Masi Campofiorin Corvina Veronese IGT Veneto Italy**
+This Italian red blend offers a unique combination of flavors from the Corvina grape, including cherry, plum, and subtle earthy notes. Its moderate acidity and smooth tannins make it an excellent choice for celebrations, pairing well with a range of dishes from pasta to grilled meats.
+
+3. **Mevius Shiraz McLaren Vale South Australia**
+This rich and full-bodied Shiraz boasts intense flavors of dark fruit, spice, and chocolate, with velvety smooth tannins. Its bold character makes it an ideal choice for special occasions like celebrations, especially when paired with hearty dishes or robust cheeses.
+
+All three wines are within your budget and suitable for a celebration occasion.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Celebration
+- Expert-level suggestions: nan
+- Scenario: S4
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169889659,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2402:3a80:945:c327:b963:b7fa:c4f6:1bce,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:48,,,,11/20/2024 16:49,,,out,11/20/2024 16:49,0,,,,,,,HKD500-1000,,,,,Casual,,S1,,,,,,,,Red,,,,"1. **Apothic Red Blend (California, USA)**: A smooth, fruit-forward blend of Syrah, Merlot, and Cabernet Sauvignon. It's a great introduction to the world of red blends and pairs well with casual gatherings.
+2. **Concha y Toro Marqués de Casa Concha Carmenère (Chile)**: This Chilean Carmenère offers dark fruit flavors, spice, and smooth tannins. It's an excellent choice for those who prefer a slightly more full-bodied wine without breaking the bank.
+3. **Meiomi Pinot Noir (California, USA)**: A light to medium-bodied Pinot Noir with flavors of cherry, raspberry, and earthy notes. Meiomi is a great option if you're looking for a more approachable Pinot Noir that won't overwhelm your palate.
+
+All three wines should be available within your budget of HKD500-1000 in Hong Kong wine shops or online retailers.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169889947,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:49,,,,11/20/2024 16:49,,,out,11/20/2024 16:49,0,,,,,,,HKD500-1000,,,,,daily drinking,,S1,,,,,,,,Red,,,,"1. **Penfolds Bin 28 Kalimna Shiraz** (Australia): A full-bodied shiraz from one of Australia's most renowned wineries. This wine is known for its rich, dark fruit flavors and robust tannins.
+2. **Château Saint-Pierre** (Bordeaux, France): A Bordeaux blend from the Saint-Julien appellation, this wine offers a balance of dark fruit, spice, and subtle oak notes, with firm tannins and good acidity.
+3. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** (Napa Valley, California): A full-bodied cabernet sauvignon from one of Napa Valley's top wineries, this wine is known for its dark fruit flavors, smooth tannins, and subtle oak notes.
+
+All three wines are priced between HKD500-1000 and should be widely available at wine shops in Hong Kong.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169890185,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:50,,,,11/20/2024 16:50,,,out,11/20/2024 16:50,0,,,,,,,HKD500-1000,,Fish,,,Quick Dinner,,S1,,,,,,,,White,,,,"
+
+**Recommendation 1:** **Meiomi Pinot Grigio** (HKD $250-$300)
+Reason: This crisp and refreshing Pinot Grigio pairs well with delicate fish flavors. Its citrus notes complement the lightness of fish dishes.
+
+**Recommendation 2:** **Kim Crawford Sauvignon Blanc** (HKD $280-$350)
+Reason: With its zesty acidity, this Sauvignon Blanc cuts through rich fish flavors. The citrus and green apple notes in Kim Crawford's wine will enhance your fish dinner experience.
+
+**Recommendation 3:** **La Crema Chardonnay** (HKD $380-$450)
+Reason: A buttery and oaky Chardonnay complements richer fish dishes, such as pan-seared salmon or cod. La Crema's Chardonnay offers a balanced taste with flavors of vanilla, caramel, and citrus.
+
+These wines are all within your budget and would pair well with various fish dishes for a quick dinner.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169890499,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:51,,,,11/20/2024 16:51,,,out,11/20/2024 16:51,0,,,,,,,HKD200-500,,,,,Partying and Events,,S1,,,,,,,,Red,,,,"1. **Penfolds Bin 28 Kalimna Shiraz** (HKD $380) - A classic Australian Shiraz with rich fruit flavors and smooth tannins, perfect for special occasions like parties and events.
+2. **Château Lafon-Rochet Saint-Estèphe** (HKD $420) - A full-bodied Bordeaux blend from the renowned Saint-Estèphe appellation, offering complex flavors of dark fruits, spices, and subtle oak notes.
+3. **Antinori Guado al Tasso Bolgheri Rosso** (HKD $460) - An Italian Super Tuscan with a rich and fruity profile, featuring flavors of plum, blackberry, and hints of spice, making it an excellent choice for parties and events.
+
+These recommendations cater to your preference for Red wines, suitable for parting and events within your budget.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169890813,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:52,,,,11/20/2024 16:53,,,out,11/20/2024 16:53,0,,,,,,,HKD 1000 or Above,,Lamb,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Penfolds Bin 28 Kalimna Shiraz** (HKD 620)
+A classic Australian shiraz that pairs well with lamb's rich flavor. This full-bodied wine has dark fruit flavors, spice, and a smooth finish.
+
+2. **Château Lafon-Rochet Saint-Estèphe** (HKD 840)
+A Bordeaux blend from the Pauillac region that offers complexity and structure to match lamb's bold flavor. This wine has blackcurrant, blackberry, and subtle oak notes.
+
+3. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** (HKD 930)
+An American Napa Valley cabernet sauvignon with a rich texture and flavors of dark fruit, spices, and subtle tannins that complement lamb's richness.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169891593,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:54,,,,11/20/2024 16:55,,,out,11/20/2024 16:55,0,,,,,,,HKD200-500,,,,,daily drinking,,S1,,,,,,,,White,,,,"1. **Lindemans Bin 65 Chardonnay** (HKD180)
+A classic Australian Chardonnay with a buttery and oaky aroma, followed by flavors of ripe apple, pear, and hints of vanilla.
+2. **Meiomi Pinot Grigio** (HKD250)
+This California-based Pinot Grigio is crisp and refreshing, with citrus, green apple, and floral notes that pair well with seafood or light dishes.
+3. **Kim Crawford Sauvignon Blanc** (HKD380)
+A zesty and herbaceous Sauvignon Blanc from Marlborough, New Zealand, perfect for warm days or as a pairing for salads, goat cheese, or seafood.
+
+These wines are all widely available in Hong Kong and offer great value within your budget. Enjoy exploring these options!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169891883,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,Delhi,,,iOS,Mobile Chrome,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 16:55,,,,11/25/2024 10:33,,,out,11/25/2024 10:33,0,,,,,,,HKD200-500,,Fish,,,Quick Dinner,,S1,,,,,,,,Sparkling,,,,"1. **Veuve Clicquot Yellow Label Brut Champagne**: A classic and elegant champagne that pairs perfectly with delicate fish flavors. Its citrus and apple notes complement the freshness of fish without overpowering it. Price: around HKD250.
+2. **Billecart-Salmon Brut Rosé**: A luxurious rosé champagne that will add a touch of elegance to your quick dinner. The subtle fruitiness and acidity balance out the richness of fish, making it an excellent pairing for seafood dishes. Price: around HKD380.
+3. **Perrier-Jouët Grand Brut**: A crisp and refreshing champagne with notes of green apple, pear, and citrus. Its delicate flavors won't overpower the fish, allowing you to enjoy the natural flavors of your dish. Price: around HKD280.
+
+These recommendations are based on their pairing capabilities with fish dishes, and they should fit within your budget. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Fish
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Sparkling
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169992991,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:d87b:ac91:968f:48ef,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 18:40,,,,11/20/2024 18:40,,,out,11/20/2024 18:40,0,,,TRUE,,,,HKD500-1000,,,,,Partying and Events,,S1,,,,,,,,HKD500-1000,,,,"1. **Meiomi Pinot Noir** (HKD 550 - HKD 650)
+This wine is a great choice for parties and events due to its crowd-pleasing flavor profile and moderate price point. Meiomi Pinot Noir has flavors of cherry, raspberry, and a hint of vanilla, making it easy to pair with a variety of dishes.
+2. **Kim Crawford Sauvignon Blanc** (HKD 450 - HKD 550)
+If you're looking for a refreshing and zesty wine to serve at your next party or event, Kim Crawford Sauvignon Blanc is an excellent choice. This wine has citrus, green apple, and grassy notes that will leave your guests wanting more.
+3. **Masi Campofiorin** (HKD 550 - HKD 650)
+For a more sophisticated and elegant option, consider the Masi Campofiorin. This Italian red wine is made from Corvina grapes and has flavors of dark fruit, spice, and subtle oak notes. It's perfect for serving at special occasions or events where you want to impress your guests.
+
+All three wines are within your budget and offer great value for their quality and flavor profiles. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: HKD500-1000
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169993221,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:d87b:ac91:968f:48ef,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 18:41,,,,11/20/2024 18:41,,,out,11/20/2024 18:41,0,,,,,,,HKD200-500,,,,,Casual,,S1,,,,,,,,White,,,,"1. **Meiomi Pinot Grigio** ($160-$180 HKD) - This is a crisp and refreshing wine with flavors of green apple, pear, and citrus notes. It's perfect for casual sipping or pairing with light dishes.
+2. **Santa Margherita Pinot Grigio** ($200-$220 HKD) - As one of the most iconic Pinot Grigios in the world, this Italian white wine boasts a rich texture and flavors of lemon, lime, and honeysuckle. It's ideal for special occasions or as a gift.
+3. **Kim Crawford Sauvignon Blanc** ($180-$200 HKD) - This is a zesty and herbaceous wine from New Zealand with notes of grapefruit, green apple, and grassy hints. It pairs well with seafood, salads, or as an apéritif.
+
+All three wines are highly rated and available in various wine shops and online retailers in Hong Kong within your budget.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169993351,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:d87b:ac91:968f:48ef,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 18:41,,,,11/20/2024 18:41,,,out,11/20/2024 18:41,0,,,,,,,HKD100-200,,,,,Casual,,S1,,,,,,,,White,,,,"1. **Grüner Veltliner from Austria**: A crisp and refreshing white wine with notes of green apple, citrus, and white pepper. This varietal is perfect for warm weather and pairs well with lighter dishes like salads or seafood.
+2. **Sauvignon Blanc from Marlborough (New Zealand)**: A zesty and herbaceous white wine with flavors of grapefruit, lime, and grassy notes. This wine is great for those who enjoy a lively acidity and citrus flavors.
+3. **Pinot Grigio from Italy**: A crisp and citrus-driven white wine with hints of pear, apple, and floral notes. This varietal is perfect for casual gatherings and pairs well with lighter fare like pasta, seafood, or as an apéritif.
+
+These wines are all widely available in Hong Kong within the HKD100-200 budget and are suitable for a variety of casual occasions.","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u169993475,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2405:201:4018:a13e:d87b:ac91:968f:48ef,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 18:42,,,,11/20/2024 18:42,,,out,11/20/2024 18:42,0,,,,,,,HKD100-200,,,,,Casual,,S1,,,,,,,,White,,,,"1. **Santa Margherita Pinot Grigio** (HKD 180 - HKD 220)
+This Italian white wine is known for its crisp acidity and flavors of green apple, pear, and honeysuckle. Its refreshing taste makes it perfect for casual sipping or pairing with light dishes.
+2. **Meiomi Chardonnay** (HKD 150 - HKD 180)
+A buttery and oaky Chardonnay from California, Meiomi offers a rich mouthfeel and flavors of vanilla, caramel, and stone fruits. Its smooth finish makes it suitable for casual gatherings or everyday drinking.
+3. **Kim Crawford Sauvignon Blanc** (HKD 120 - HKD 150)
+A zesty and citrusy Sauvignon Blanc from Marlborough, New Zealand, Kim Crawford is a great choice for those who enjoy lively acidity and flavors of grapefruit, lime, and grassy notes. Its crisp finish makes it ideal for casual drinking or pairing with salads and seafood.
+
+These wines offer a good balance of quality, taste, and affordability within your budget. Enjoy exploring these recommendations!","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170067609,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:102e:6114:3d22:ace2:c162:21b9,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/20/2024 21:51,,,,11/20/2024 21:52,,,out,11/20/2024 21:52,0,,,,,,,HKD500-1000,,Lamb,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Albariño from Rías Baixas, Spain**: This wine is a great match for lamb due to its crisp acidity and flavors of citrus, stone fruits, and subtle saltiness. The Albariño grape variety is well-suited for pairing with grilled meats like lamb.
+2. **Pinot Grigio from Friuli-Venezia Giulia, Italy**: Pinot Grigio is another excellent choice for lamb, offering a refreshing taste experience with notes of green apple, pear, and floral hints. Its crisp acidity cuts through the richness of lamb nicely.
+3. **Grüner Veltliner from Kamptal, Austria**: This wine is a great option if you want a slightly more complex pairing for your lamb dish. Grüner Veltliner offers a minerally taste with flavors of green apple, white pepper, and subtle herbal notes. Its crisp acidity pairs well with the bold flavors of lamb.
+
+All three wines are within your budget and should be readily available at most wine shops or online retailers in Hong Kong.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170520531,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d2:10b3:7bb8:21c6:d169:e02a:e923,IN,RJ,Jaipur,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:07,,,,11/21/2024 20:08,,,out,11/21/2024 20:08,0,,,,,,,HKD500-1000,,,,,Partying and Events,,S1,,,,,,,,White,,,,"1. **Kim Crawford Sauvignon Blanc**: This New Zealand wine is a perfect fit for partying and events due to its crisp acidity and refreshing flavor profile. Its citrus and grassy notes will complement a variety of dishes while keeping you energized throughout the night.
+2. **Meiomi Chardonnay**: If you're looking for a richer and more full-bodied white wine, Meiomi's Chardonnay is an excellent choice. With its buttery and oaky flavors, it pairs well with lighter fare or can be enjoyed on its own as a celebratory drink.
+3. **Santa Margherita Pinot Grigio**: This Italian Pinot Grigio is a crowd-pleaser due to its balanced acidity and flavor profile. Its notes of green apple, pear, and citrus will complement a range of dishes while keeping the evening lively.
+
+These recommendations should fit within your budget of HKD500-1000. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Partying and Events
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170521167,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:09,,,,11/21/2024 20:10,,,out,11/21/2024 20:10,0,,,,,,,HKD200-500,,,,,Celebration,,S1,,,,,,,,Red,,,,"1. **Penfolds Bin 28 Kalimna Shiraz**: This Australian wine is a classic choice for special occasions. With its rich, full-bodied flavors of dark fruit, spices, and subtle vanilla notes, it's perfect for celebrating with friends or family.
+2. **Meiomi Pinot Noir**: If you prefer a lighter-bodied red wine, Meiomi Pinot Noir from California is an excellent option. Its balanced acidity and flavors of cherry, raspberry, and earthy notes make it an ideal choice for a celebratory dinner or gathering.
+3. **Château Ste. Michelle Canoe Ridge Estate Merlot**: This Washington State Merlot offers a smooth, approachable taste with flavors of plum, blackberry, and subtle spice notes. Its well-balanced acidity and soft tannins make it a great match for a variety of celebratory occasions.
+
+All three wines are high-quality options within your budget, and their flavor profiles will complement a range of food pairings or be enjoyed on its own. Cheers to celebrating with the perfect glass of wine!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Celebration
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170521637,1.73E+15,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:11,,,,11/21/2024 20:11,,,out,11/21/2024 20:11,0,,,,,,,HKD500-1000,,Beef,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1.  **Chateau Ste Michelle Columbia Valley Merlot** (HKD220): A smooth and approachable Merlot that pairs well with grilled or roasted beef. Its plum flavors and subtle tannins make it an excellent choice for a casual dinner.
+2.  **Apothic Red Blend** (HKD270): This Californian blend of Syrah, Merlot, and Cabernet Sauvignon offers dark fruit flavors, velvety texture, and a hint of spice. Its rich taste complements the bold flavor of beef nicely.
+3.  **Concha y Toro Casillero del Diablo Carmenere** (HKD250): A Chilean wine with a distinct peppery and fruity profile that suits grilled or pan-seared beef well. Its moderate acidity and smooth tannins provide a refreshing finish to the meal.
+
+Each of these wines falls within your budget and should pair nicely with your choice of beef for a quick dinner.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Beef
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170522013,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:12,,,,11/21/2024 20:12,,,out,11/21/2024 20:12,0,,,,,,,HKD200-500,,,,,daily drinking,,S1,,,,,,,,White,,,,"1. Sauvignon Blanc: Kim Crawford Sauvignon Blanc (HKD180-$25)**
+This crisp and refreshing Sauvignon Blanc from New Zealand is a great match for you. Its citrus and grassy notes will delight your palate.
+
+
+**2. Pinot Grigio: Santa Margherita Pinot Grigio (HKD250-$30)**
+This Italian Pinot Grigio offers a smooth and elegant taste experience with flavors of green apple, pear, and a hint of floral notes.
+
+
+**3. Chardonnay: Meursault Vieilles Vignes (HKD420-$45)**
+For a richer and more buttery experience, this Meursault Vieilles Vignes Chardonnay from Burgundy is a great option. Its oaky flavors complement its creamy texture.
+
+
+All of these wines are within your budget and suitable for daily drinking.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170522383,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:13,,,,11/21/2024 20:15,,,out,11/21/2024 20:15,0,,,TRUE,,,,HKD100-200,,Chicken masala,,,Casual,,S1,,,,,,,,Red,,,,"1.  **Apothic Red Blend** (HKD $120): This American red blend is a crowd-pleaser with a smooth, approachable flavor profile that pairs well with spicy dishes like chicken masala. The wine has notes of dark fruit, chocolate, and vanilla, making it an excellent choice for casual gatherings.
+2.  **Masi Campofiorin** (HKD $180): This Italian red blend is made from Corvina grapes and offers a rich, full-bodied taste experience with hints of cherry, plum, and spice. The wine's moderate tannins make it suitable for pairing with chicken masala, while its price falls within your budget.
+3.  **Ravenswood Old Vine Zinfandel** (HKD $160): This California Zinfandel is known for its bold flavors of blackberry, raspberry, and dark spice. Its smooth texture and moderate acidity make it an excellent choice for casual sipping or pairing with spicy dishes like chicken masala.
+
+These recommendations should provide a great starting point for your wine exploration!","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: Chicken masala
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170523409,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:16,,,,11/21/2024 20:17,,,out,11/21/2024 20:17,0,,,,,,,HKD500-1000,,,,,daily drinking,,S1,,,,,,,,Red,,,,"1. Masi Campofiorin Rosso del Veronese 2020 - A classic Italian blend with bright acidity and flavors of dark fruit and spice.
+2. Chateau Saint-Pierre Saint-Julien 2015 - A full-bodied Bordeaux with smooth tannins, dark fruit flavors and subtle oak notes.
+3. Santoasino Brunello di Montalcino 2016 - A rich Tuscan red wine with complex flavors of cherry, plum, and vanilla.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170523691,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:17,,,,11/21/2024 20:19,,,out,11/21/2024 20:19,0,,,TRUE,,,,HKD100-200,,,,,daily drinking,,S1,,,,,,,,Red,,,,"1. **Apothic Red Blend** (HKD 128)
+This wine is a rich and smooth blend of Syrah, Merlot, and Cabernet Sauvignon. It's perfect for everyday drinking and pairs well with a variety of foods.
+2. **Apothic Dark** (HKD 148)
+Another great option from Apothic, this wine is a full-bodied blend of Zinfandel, Syrah, and Merlot. It has dark fruit flavors and spicy undertones that make it perfect for those who enjoy bold wines.
+3. **14 Hands Cabernet Sauvignon** (HKD 188)
+If you prefer a single-varietal wine, this Cabernet Sauvignon from Washington State is a great choice. It's a smooth and approachable wine with flavors of blackberry, cherry, and subtle spice.
+
+All three wines are widely available in Hong Kong and should be easy to find at most wine stores or online retailers within your budget.","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170524641,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:20,,,,11/21/2024 20:22,,,out,11/21/2024 20:22,0,,,,,,,HKD100-200,,,,,Casual,,S1,,,,,,,,White,,,,"1. **Alamos Torrontes** (Argentina) - A crisp and refreshing Argentine white wine made from the Torrontés grape variety. It's perfect for casual occasions and pairs well with seafood or salads.
+2. **Santa Margherita Pinot Grigio** (Italy) - A classic Italian Pinot Grigio with flavors of green apple, pear, and citrus. Its crisp acidity makes it a great match for lighter dishes like pasta or risotto.
+3. **Lindemans Bin 65 Chardonnay** (Australia) - A smooth and approachable Chardonnay from Australia's Lindemans winery. It offers flavors of butter, vanilla, and stone fruit, making it a great choice for casual gatherings.
+
+All three wines are within your budget and offer a good balance of quality and price. Enjoy!","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170525325,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2401:4900:4166:952a:a859:ba6f:9b29:163f,IN,HR,KarnÄl,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/21/2024 20:23,,,,11/21/2024 20:25,,,out,11/21/2024 20:25,0,,,TRUE,,,,HKD500-1000,,Spaghetti bolognese,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Apothic Dark** (HKD200-300): This American red blend is a great match for spaghetti bolognese due to its rich and fruity flavors, which complement the bold and meaty flavors of the dish.
+2. **Masi Campofiorin** (HKD250-350): This Italian red wine is made from Corvina grapes and offers a smooth and approachable taste with notes of cherry and plum. Its moderate acidity cuts through the richness of the spaghetti, making it an excellent pairing.
+3. **La Crema Sonoma Coast Pinot Noir** (HKD400-500): If you prefer a lighter-bodied wine, this Pinot Noir from California is a great choice. Its red fruit flavors and subtle earthy notes complement the tomato-based sauce without overpowering it.
+
+All three wines are available within your budget range and should provide an excellent match for your Spaghetti bolognese dinner!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Spaghetti bolognese
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u170834629,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d2:100f:faf6:df5:45f2:b44c:a42f,IN,UP,Meerut,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/22/2024 13:50,,,,11/22/2024 13:50,,,out,11/22/2024 14:53,0,,,,,,,HKD500-1000,,Lamb,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Puligny-Montrachet Les Folatières 2017** from Burgundy, France - This Chardonnay-based wine is a great pairing for lamb due to its rich and buttery flavors, which complement the gamey taste of lamb. Its minerality and crisp acidity will help cut through the richness of the dish. (Approx. HKD $800)
+2. **Meursault Vieilles Vignes 2016** from Burgundy, France - Another Chardonnay-based wine, Meursault is known for its rich, oaky flavors that pair well with lamb's savory taste. This particular vintage has a hint of vanilla and caramel notes that will complement the dish nicely. (Approx. HKD $950)
+3. **Albariño 2018** from Rías Baixas, Spain - If you prefer something lighter and fresher, Albariño is an excellent choice. Its citrus and stone fruit flavors are perfect for balancing the richness of lamb. Additionally, its crisp acidity will help cut through the dish's savory flavors. (Approx. HKD $650)
+
+These recommendations offer a range of styles to suit your taste preferences. Enjoy your wine and lamb pairing!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u171430673,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d2:12ae:f546:a8f5:68c8:48e8:175d,IN,UP,Meerut,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/23/2024 17:04,,,,11/23/2024 17:05,,,out,11/23/2024 17:05,0,,,,,,,HKD500-1000,,Lamb,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Meursault 'Les Tillets' Domaine Pierre Morey** (Burgundy, France)
+	* This wine is a classic example of Chardonnay, which would pair well with lamb due to its rich and buttery texture.
+	* Meursault is known for its elegant and complex flavor profile, making it an excellent choice for a quick dinner.
+2. **Domaine Serene Yamhill Pinot Gris** (Oregon, USA)
+	* This wine offers a crisp acidity that cuts through the richness of lamb, making it a refreshing pairing.
+	* The flavors of apple, pear, and citrus will complement the gamey taste of lamb without overpowering it.
+3. **Kumeu River Chardonnay Kumeu Village** (New Zealand)
+	* This wine is known for its bright acidity and flavors of stone fruit, citrus, and a hint of vanilla.
+	* The crispness of this wine will pair nicely with the savory taste of lamb, making it an excellent choice for a quick dinner.
+
+All three wines fall within your budget range of HKD500-1000.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u171628437,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Kolkata,2409:40d2:101a:1318:20bc:b3a5:441a:2471,IN,UP,Meerut,,,macOS,Chrome,Apple,Desktop,https://www.uchat.com.au/flow/f83423,,,,,,,,11/24/2024 7:43,,,,11/24/2024 7:48,,,out,11/24/2024 7:48,0,,,,,,,HKD200-500,,Lamb,,,Quick Dinner,,S1,,,,,,,,White,,,,"1.  **Albariño from Rías Baixas, Spain**: This wine is a great match for lamb as it has a crisp acidity and flavors of citrus and stone fruits that will complement the richness of the meat.
+2.  **Vermentino from Tuscany, Italy**: Vermentino is known for its herbaceous and citrus notes which pair well with lamb's gamey flavor. Its medium body and balanced acidity make it an excellent choice for a quick dinner.
+3.  **Gewürztraminer from Alsace, France**: This wine has a unique combination of lychee, rose petal, and ginger flavors that will complement the complexity of lamb. Its off-dry style and spicy notes will add depth to your meal.
+
+All three wines are within your budget range (HKD 200-500) and should be available at most wine stores in Hong Kong.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u172115593,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d7:b:3901:4468:c9a6:a359:5646,IN,HP,Manali,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/25/2024 10:28,,,,11/25/2024 10:28,,,out,11/25/2024 10:28,0,,,TRUE,,,,HKD 1000 or Above,,,,,Casual,,S1,,,,,,,,HKD500-1000,,,,"1. **Château d'Aiguilhe Côtes de Castillon** (2015) - A blend of Merlot, Cabernet Franc, and Malbec from Bordeaux, France. This full-bodied wine offers rich flavors of dark fruit, spices, and subtle oak notes. Its smooth tannins make it a great match for casual gatherings.
+2. **Penfolds Bin 128 Shiraz** (2016) - A single-vineyard Shiraz from McLaren Vale, South Australia. This wine showcases bright acidity and fine-grained tannins, with flavors of dark fruit, white pepper, and subtle hints of vanilla. Its complexity and elegance make it suitable for a casual evening.
+3. **Château Rieussec Sauternes** (2011) - A sweet white wine from Bordeaux, France, made from Sémillon grapes. This dessert wine offers honeyed flavors, notes of dried apricot, and a hint of botrytis. Its sweetness is balanced by acidity, making it an excellent choice for a casual dinner or gathering.
+
+These recommendations are all within your budget of HKD 1000 or above and should pair well with a variety of foods. Enjoy!","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: HKD500-1000
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No input from user,No input from user
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Penfolds Bin 28 Kalimna Shiraz** (AUD $150-HKD960): This Australian Shiraz is a great match for lamb, as it offers rich, spicy flavors and a smooth texture that complements the gamey taste of lamb.
+2. **Château Saint-Pierre 2015** (EUR $40-HKD330): This Bordeaux blend from Saint-Julien features complex flavors of dark fruit, spice, and subtle oak notes that will pair nicely with lamb's robust flavor.
+3. **La Rioja Alta Vina Ardanza Reserva 2007** (EUR $50-HKD420): Hailing from Spain, this Tempranillo-based wine is a classic pairing for lamb due to its balanced acidity, moderate tannins, and flavors of dark fruit, leather, and subtle vanilla notes.
+
+These wines are all available within your budget range of HKD500-1000. If you're looking for something more affordable, consider exploring bottles from regions like Chile or Argentina, which offer great value for money. Enjoy!","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u175043953,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,122.184.65.228,IN,,,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,11/30/2024 4:57,,,,11/30/2024 4:58,,,out,11/30/2024 4:58,0,,,,,,,HKD200-500,,,,,Celebration,TRUE,S1,,,,,,,,White,,,,"1. **Meursault Vieilles Vignes 2017** by Domaine Arnaud Ente (France)
+This Burgundy white is made from Chardonnay grapes, known for its rich, buttery flavors and subtle oak notes. Its complexity and aging potential make it a perfect choice for special occasions.
+Price: around HKD400-500
+2. **Albariño 2018** by Bodegas Do Ferreiro (Spain)
+This Spanish white wine is made from Albariño grapes, offering citrus, stone fruit, and floral aromas with a crisp acidity. Its fresh and zesty character makes it suitable for celebrations.
+Price: around HKD250-350
+3. **Grüner Veltliner 2018** by Hiedler (Austria)
+This Austrian white wine is made from Grüner Veltliner grapes, boasting minerality, green apple flavors, and a hint of spice. Its refined style and crisp acidity make it an excellent choice for special occasions.
+Price: around HKD200-300
+
+These recommendations cater to your preferences for white wine and celebratory occasions. If you'd like more tailored suggestions or have specific details about your taste profile (e.g., sweetness level, body preference), I can provide further guidance.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Celebration
+- Expert-level suggestions: True
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u175084223,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,182.239.120.50,HK,,,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,11/30/2024 8:54,,,,11/30/2024 8:57,,,out,11/30/2024 12:49,0,,,,,,,HKD200-500,,Oyster,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Sancerre Blanc ""Les Caillottes"" by Pascal Jolivet**: This Loire Valley wine is a perfect match for oysters due to its crisp acidity and mineral notes, which complement the brininess of the oysters. Its flavor profile features citrus, green apple, and subtle hints of flint.
+2. **Meursault Blanc 1er Cru ""Blagny"" by Domaine du Chateau de Blagny**: This Burgundian white wine boasts a rich texture and flavors of stone fruit, vanilla, and butter, which pair well with the creamy texture of oysters. Its subtle oak aging adds complexity to the wine.
+3. **Albariño ""Viña Tondonia"" by Marques de Riscal**: This Spanish white wine is known for its zesty acidity and flavors of citrus, stone fruit, and a hint of saltiness, making it an excellent match for oysters. Its crisp finish cleanses the palate, preparing you for the next bite.
+
+These wines should satisfy your craving for oysters while staying within your budget. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Oyster
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u177063823,1.73E+16,alex w,,,,alexyywong@winesecrethk.com,,web,open,,en-US,Asia/Hong_Kong,219.78.154.244,HK,HEA,Causeway Bay,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,12/4/2024 9:45,12/6/2024 3:51,,,12/6/2024 3:51,,,in,12/6/2024 3:51,0,,,,,26  - 35,,HKD200-500,,japanese,,,Quick Dinner,TRUE,S2,,,,,,,,White,,,,"1. **Meiomi Chardonnay** (HKD 250): This California Chardonnay is a great match for Japanese cuisine due to its balanced acidity and rich flavors of apple, pear, and caramel. Its smooth finish makes it an excellent pairing for a quick dinner.
+2. **Kim Crawford Sauvignon Blanc** (HKD 320): For those who prefer a crisp and refreshing white wine, this Kiwi Sauvignon Blanc is an excellent choice. Its citrus and green apple flavors complement the bright acidity, making it perfect for cutting through rich Japanese dishes like sushi or tempura.
+3. **Santa Margherita Pinot Grigio** (HKD 420): This Italian Pinot Grigio offers a light-bodied and crisp wine with flavors of lemon, lime, and honeysuckle. Its refreshing finish makes it an excellent choice for pairing with lighter Japanese dishes like sashimi or grilled fish.
+
+These recommendations are carefully curated to cater to your preferences for white wines that pair well with Japanese cuisine and complement the flavors of quick dinners.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: japanese
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: True
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u177286421,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:1f:739e:253f:96dd:64b1:519e,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,12/4/2024 16:11,,,,12/4/2024 16:11,,,out,12/4/2024 16:11,0,,,,,,,HKD200-500,,Lamb,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Masi Campofiorin** (Italy) - A classic Italian blend of Corvina, Rondinella, and Molinara grapes. Its moderate acidity and tannins complement the richness of lamb nicely.
+2. **Château Léoville-Barton** (Bordeaux, France) - A full-bodied wine with a mix of dark fruit flavors and spices that will pair well with grilled or roasted lamb.
+3. **Penfolds Bin 28 Kalimna Shiraz** (South Australia) - This Australian Shiraz offers a rich, velvety texture and flavors of blackberry, spice, and subtle vanilla notes that will complement the bold flavors of lamb.
+
+All three wines fall within your budget of HKD200-500. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u181659087,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2402:e280:221a:1b:60b9:399c:379f:436,IN,DL,Delhi,,,macOS,Chrome,Apple,Desktop,https://www.uchat.com.au/flow/f83423,,,,,,,,12/13/2024 9:02,,,,12/13/2024 9:02,,,out,12/13/2024 9:02,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Kim Crawford Sauvignon Blanc** (approx. $20-$30)
+A crisp and refreshing white wine with citrus and grassy notes that pairs well with a variety of dishes, from seafood to salads.
+2. ** Meiomi Pinot Noir** (approx. $15-$25)
+A smooth and approachable red wine with flavors of cherry, raspberry, and earthy undertones that complements lighter fare like pasta or pizza.
+3. **Bogle Merlot** (approx. $10-$20)
+A rich and full-bodied red wine with plum, blackberry, and spice notes that pairs well with heartier dishes like grilled meats or robust cheeses.
+
+These wines are all widely available in most regions, and their prices vary depending on the store and location. Please keep in mind that these are general recommendations, and your personal taste preferences may differ.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u181659173,1.73E+16,Jason Lam,,,,jason_lam8@gmail.com,,web,open,,en-IN,Asia/Kolkata,2402:e280:221a:1b:1563:dd40:d856:523c,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,12/13/2024 9:03,12/13/2024 9:06,,,12/13/2024 9:08,12/13/2024 9:09,,agent,12/13/2024 9:09,68447,AI_ChatBot,gauravbidalia@gmail.com,TRUE,,36 - 50,,HKD200-500,TRUE,Lamb,,,Quick Dinner,,s5,Wine Retail Stores,,,,,,,White,Few Times a Month,,,"1.  **Meursault ""Les Narvaux"" from Domaine Pierre Morey**: This wine is a great match for lamb due to its rich and creamy texture, which will complement the bold flavors of the meat. Meursault is known for its buttery and oaky notes, making it an excellent choice for those who enjoy white wines with a subtle oak influence.
+
+2.  **Chablis ""Les Clos"" from Domaine William Fèvre**: This wine offers a crisp and refreshing taste that pairs well with the rich flavors of lamb. Chablis is known for its minerality and acidity, making it an excellent choice for those who prefer a more subtle white wine.
+
+3.  **Gewürztraminer ""Le Rosé de Jeanne"" from Domaine Weinbach**: This wine has a floral and spicy flavor profile that complements the gamey flavors of lamb. Gewürztraminer is known for its off-dry taste, making it an excellent choice for those who prefer a hint of sweetness in their white wines.
+
+All three wines are available at HKD200-500 in wine retail stores in Hong Kong.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: True
+- Food: Lamb
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: s5
+- Store Purchase Preference: Wine Retail Stores
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: Few Times a Month
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182019539,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,182.239.87.202,HK,NTM,Tuen Mun San Hui,,,iOS,Mobile Safari,Apple,mobile,,https://menu.winesecrethk.com/,,,,,,,12/14/2024 3:41,,,,12/14/2024 3:42,,,out,12/14/2024 3:42,0,,,,,,,HKD200-500,,Chicken,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Meiomi Pinot Grigio** (HKD180-250): This California-based Pinot Grigio is a crisp and refreshing wine with flavors of green apple, pear, and citrus. Its citrus notes will complement the richness of chicken nicely.
+2. **Kim Crawford Sauvignon Blanc** (HKD220-320): This Kiwi classic is known for its zesty acidity and herbal notes that will cut through the juiciness of your chicken dish. Expect flavors of grapefruit, lime, and grassy undertones.
+3. **Santa Margherita Pinot Grigio** (HKD380-480): For a more premium option, this Italian Pinot Grigio is a great choice. It offers a rich texture and flavors of lemon, pear, and honey that will pair nicely with delicate chicken dishes.
+
+These wines are all widely available in Hong Kong's wine stores and online retailers within your budget. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Chicken
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182021423,1.73E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,14.0.164.143,HK,NTM,Tuen Mun San Hui,,,iOS,Mobile Safari,Apple,mobile,,https://menu.winesecrethk.com/,,,,,,,12/14/2024 3:51,,,,12/14/2024 3:51,,,out,12/14/2024 3:51,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Sauvignon Blanc from Loire Valley (France)**: A crisp and refreshing white wine with citrus, green apple, and grassy notes. This wine is perfect for those who enjoy acidity and a hint of minerality.
+2. **Pinot Noir from Willamette Valley (Oregon)**: A light-bodied red wine with flavors of cherry, raspberry, and earthy undertones. Pinot Noirs are great for those who appreciate subtlety and complexity in their wines.
+3. **Tempranillo from Rioja (Spain)**: A rich and full-bodied red wine with dark fruit flavors, subtle oak, and a hint of spice. Tempranillos are ideal for those who enjoy a robust wine with good structure.
+
+These recommendations offer a mix of styles, acidity levels, and flavor profiles to suit various tastes. If you'd like more specific suggestions or have particular preferences, please let me know!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182025199,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2402:e280:221a:1b:d0b6:924f:fe82:3542,IN,DL,Delhi,,,iOS,Mobile Chrome,Apple,mobile,,https://menu.winesecrethk.com/,,,,,,,12/14/2024 4:10,,,,12/14/2024 4:10,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Meiomi Pinot Noir** - This wine is a great choice for those who like a balanced and approachable Pinot Noir. Meiomi's Pinot Noir has flavors of cherry, raspberry, and earthy notes with a smooth finish.
+2. **La Crema Sonoma Coast Chardonnay** - If you enjoy a buttery and oaky Chardonnay, La Crema's Sonoma Coast offering might be up your alley. This wine has a rich texture, flavors of vanilla, caramel, and apple, with a hint of oak.
+3. **Rutherford Hill Merlot** - For those who prefer a smooth and fruit-forward red wine, Rutherford Hill's Merlot is a great option. This wine has flavors of plum, blackberry, and chocolate, with soft tannins and a velvety texture.
+
+Keep in mind that these are just suggestions based on general taste profiles, and individual preferences may vary. If you'd like more specific recommendations or have any additional information about your taste profile, feel free to share!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182036985,1.73E+16,Back to Main Menu,,,,,,web,open,,en-GB,Asia/Hong_Kong,182.239.122.239,HK,NTP,Tai Wo,,,macOS,Safari,Apple,Desktop,,https://menu.winesecrethk.com/,,,,,,,12/14/2024 5:17,,,,12/15/2024 8:51,,,out,12/15/2024 8:51,0,,,,,,,HKD200-500,,Steak,,,daily drinking,TRUE,S1,,,,,,,,White,,,,"1.  **Meursault Vieilles Vignes from Jean-Pierre Charlot**: This French white Burgundy is a perfect pairing for steak, with its rich, buttery flavors complementing the charred, savory notes of grilled meat. The wine's aging potential and complexity justify the higher price point within your budget.
+2.  **Alois Lageder Pinot Grigio**: For a more approachable option, consider this Italian white wine from Alois Lageder. With its crisp acidity and flavors of green apple, citrus, and floral notes, it will cut through the richness of steak without overpowering it. This wine is an excellent choice for daily drinking within your budget.
+3.  **Hugel Gewürztraminer**: If you're looking for something a bit more exotic, this Alsatian white wine from Hugel offers a unique blend of lychee, rose petal, and ginger flavors that will complement the bold flavors of steak. Its off-dry style balances sweetness and acidity, making it an excellent choice for those who prefer a touch of sweetness in their wines.
+
+These recommendations cater to your preference for white wine, daily drinking, and pairing with steak. Each option falls within your budget of HKD200-500.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Steak
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: True
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182410917,1.73423E+15,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:1014:2bd3:249f:ce8c:4b30:50d4,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://menu.winesecrethk.com/,,,,,,,12/15/2024 3:50,,,,12/15/2024 3:50,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Meiomi Pinot Noir**: This California-based Pinot Noir is a great example of a balanced and elegant wine. Its flavors of cherry, raspberry, and earthy notes will appeal to those who enjoy smooth and approachable red wines.
+2. **Kim Crawford Sauvignon Blanc**: For white wine enthusiasts, this New Zealand-made Sauvignon Blanc is a refreshing choice. Its citrus, green apple, and grassy notes make it perfect for those who appreciate crisp and zesty wines.
+3. **Apothic Red Blend**: If you're open to trying a rich and full-bodied red blend, Apothic's offering from California might interest you. This wine combines flavors of dark fruit, chocolate, and spices, making it an excellent choice for those who enjoy complex and smooth reds.
+
+Please keep in mind that these recommendations are based on general assumptions, and your personal taste preferences may differ. If you'd like more tailored suggestions, please provide more information about your preferences!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182590727,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2409:40d0:2003:6466:31fa:c343:6e51:36d,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,12/15/2024 16:11,,,,12/15/2024 16:11,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,"I see you haven't provided any information about your taste profile, wine preferences, or specific criteria. I'll need more details to make personalized recommendations. Can you please provide some additional information so I can give you three wine suggestions that match your tastes?","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u182841901,1.73E+16,Guest,,,,,,web,open,,en-IN,Asia/Kolkata,2402:e280:221a:1b:562:5ada:6dd7:c527,IN,DL,Delhi,,,iOS,Mobile Chrome,Apple,mobile,https://www.winesecrethk.com/wine-menu/vinas-mora-kaamen-ii-primorska-hrvatska-2021,https://www.winesecrethk.com/,,,,,,,12/16/2024 8:14,,,,12/18/2024 4:52,,,out,12/18/2024 4:52,0,,,,,,,HKD200-500,,,,,Casual,,S1,,,,,,,,White,,,,"1. **Albariño (Paco & Lola)**: This Spanish white wine is known for its citrus and stone fruit flavors, with a hint of saltiness that makes it perfect for pairing with seafood or simply enjoying on its own.
+
+2. **Sauvignon Blanc (Cloudy Bay)**: This New Zealand Sauvignon Blanc is a classic choice for those who prefer a refreshing and zesty white wine. Its citrus and green apple notes make it an excellent match for salads, grilled fish, or as a palate cleanser between courses.
+
+3. **Vermentino (San Leo)**: This Italian Vermentino offers a unique flavor profile with notes of herbaceousness, lemon zest, and a hint of bitterness that balances out its crisp acidity. It's perfect for those who enjoy a wine that's both refreshing and complex.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Casual
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u183436507,1.73E+16,Alex,,,,,,web,open,,en-US,Asia/Hong_Kong,219.78.154.244,HK,HCW,Central,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,12/17/2024 12:21,,,,1/8/2025 10:44,,,out,1/8/2025 10:44,0,,,,,,,HKD500-1000,,Chinese Spicy,Cabernet Sauvignon,,Quick Dinner,TRUE,S1,,,,,,,,Red,,,Old World,"1.  **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon (Napa Valley)**
+
+    - Tasting Notes: Dark fruit flavors and subtle spice notes complement Chinese spicy dishes.
+    - Price Range: HKD $800-$1000
+2.  **Château Saint-Pierre Saint-Julien** 
+
+    - The wine has a balanced acidity, making it suitable for pairing with spicy food.
+    - Fruit forward and elegant finish makes it perfect for quick dinner occasions.
+    - Price Range: HKD$700-$900
+3.  **Silver Oak Alexander Valley Cabernet Sauvignon**
+
+   - Complex flavors and tannins that won't overpower the bold spices of Chinese dishes.
+   - Price Range: HKD $500-$700","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Chinese Spicy
+- Grape Breed: Cabernet Sauvignon
+- Occasions: Quick Dinner
+- Expert-level suggestions: True
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u183440199,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,49.130.129.244,HK,,,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,12/17/2024 12:29,,,,12/17/2024 12:35,,,out,12/17/2024 12:35,0,,,,,,,HKD200-500,,,,,Celebration,,S1,,,,,,,,Red,,,,"1. **Apothic Cabernet Sauvignon** (HKD150-250)
+This smooth, approachable Cabernet is perfect for celebrations. Its rich flavors of dark fruit, chocolate, and spices will complement a variety of dishes while its affordable price point makes it an excellent value.
+
+2. **Yellow Tail Shiraz** (HKD100-200)
+As one of the most popular Shiraz wines globally, Yellow Tail offers exceptional quality at an unbeatable price. Its rich flavors of blackberry, plum, and spice, along with a velvety texture, make it ideal for special occasions without breaking the bank.
+
+3. **Meiomi Pinot Noir** (HKD250-400)
+For those who prefer lighter-bodied wines but still want to impress at celebrations, Meiomi's Pinot Noir is an excellent choice. It offers bright flavors of cherry and raspberry with subtle earthy notes, making it a versatile option that pairs well with various dishes or can be enjoyed on its own.
+
+These suggestions are designed to fit your celebratory occasion without exceeding your budget, offering a good balance between quality, taste, and affordability.","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Celebration
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u186051255,1.73489E+15,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2409:40d0:102e:9a2d:7d79:de44:b9d2:6feb,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::f83423n27497191::draft::68447,,,,,,,12/22/2024 17:03,,,,12/22/2024 17:04,,,out,12/22/2024 17:05,0,,,,,,,HKD 1000 or Above,,Filet mignon,,,Quick Dinner,,S1,,,,,,,,White,,,,"1. **Krug Grande Cuvée** (HKD 1200): This prestige cuvée champagne is a luxurious pairing for filet mignon. Its complex flavors of toasted bread, apple, and citrus will complement the richness of the dish.
+
+2. **Meursault Vieilles Vignes, Domaine Arnaud Ente** (HKD 900): A high-end white Burgundy that pairs perfectly with delicate filets. Meursault's rich, buttery flavors and subtle oak notes will enhance the tender texture of the meat.
+
+3. **Montrachet, Domaine Pierre Morey** (HKD 1000): Another exceptional white Burgundy, Montrachet offers a creamy texture and an abundance of flavors such as honey, stone fruit, and floral hints that will harmonize beautifully with filet mignon's subtle sweetness.
+
+These recommendations offer a range of styles to suit your taste preferences.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: Filet mignon
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u188405103,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2409:40d0:2c:3a68:d196:e4b3:19:f87,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,https://www.winesecrethk.com/,https://www.winesecrethk.com/,,,,,,,12/27/2024 16:52,,,,12/27/2024 16:52,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Meiomi Pinot Noir**: This wine is a great introduction to Pinot Noir, with flavors of cherry, raspberry, and earthy notes. Meiomi's Pinot Noir is approachable, smooth, and pairs well with a variety of foods.
+2. **La Crema Sonoma Coast Chardonnay**: If you prefer buttery, oaky Chardonnays, La Crema's Sonoma Coast Chardonnay is an excellent choice. This wine offers flavors of vanilla, caramel, and apple, making it a great match for creamy sauces and roasted chicken.
+3. **Columbia Crest Grand Estates Cabernet Sauvignon**: If you enjoy full-bodied wines with dark fruit flavors, Columbia Crest's Grand Estates Cabernet Sauvignon is worth trying. This wine has hints of blackberry, black cherry, and spices, making it a great match for grilled meats or robust cheeses.
+
+These recommendations should provide a good starting point, but feel free to share more about your taste preferences if you'd like me to suggest more specific wines!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u195485427,1.74E+16,Guest,,,,,,web,open,,en-GB,Europe/London,212.162.234.2,GB,ENG,London,,,Windows,Edge,,Desktop,,https://www.winesecrethk.com/,,,,,,,1/9/2025 12:56,,,,1/9/2025 12:57,,,out,1/9/2025 12:57,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Moscato**: This sweet and sparkling wine is perfect for those who enjoy fruity flavors and don't mind a bit of sweetness.
+2. **Merlot**: A smooth and approachable red wine, Merlot is great for those who prefer milder tannins and flavors of plum, blackberry, and chocolate.
+3. **Pinot Grigio**: This crisp and refreshing white wine is ideal for those who enjoy citrus, green apple, and floral notes.
+
+Please provide more information about your taste preferences (e.g., sweet or dry, red or white, fruit-forward or earthy) to get more tailored recommendations!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u195991869,1.73E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2402:e280:221a:1b:756b:e0ba:7e3e:549a,IN,DL,New Delhi,,,iOS,Instagram,Apple,mobile,https://l.instagram.com/,https://www.winesecrethk.com/,,,,,,,1/10/2025 4:53,,,,1/10/2025 4:53,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,"1. **Chardonnay**: This popular white wine is known for its buttery, oaky flavors, with hints of vanilla and apple. Chardonnay pairs well with a variety of dishes, from seafood to roasted chicken.
+2. **Pinot Noir**: A light-bodied red wine with flavors of cherry, raspberry, and earthy notes. Pinot Noir is perfect for those who enjoy subtle, elegant wines that won't overpower the palate.
+3. **Sauvignon Blanc**: This crisp and refreshing white wine boasts citrus, green apple, and grassy notes. Sauvignon Blanc is an excellent choice for spring and summer, pairing well with salads, seafood, or as a refreshing solo drink.
+
+These three wines are versatile and can be enjoyed on various occasions, from casual gatherings to special events. If you have specific preferences or taste profiles in mind (e.g., sweet vs. dry, full-bodied vs. light), I'd be happy to provide more tailored recommendations!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u197347241,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2402:e280:221a:1b:5c6:28fa:5525:ebd1,IN,DL,New Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,1/12/2025 9:55,,,,1/12/2025 9:55,,,out,1/12/2025 9:55,0,,,,,,,,,,,,,,,,,,,,,,,,,,"I'd be happy to provide wine recommendations based on your taste profile. However, it seems that you haven't provided any information about your preferences. Could you please fill out the details in the following format:
+
+* Budget: [insert budget range or specific amount]
+* Difficulty Picking: [insert level of difficulty, e.g., beginner, intermediate, advanced]
+* Food: [insert type of cuisine or dishes you typically pair with wine]
+* Grape Breed: [insert preferred grape varieties, e.g., Cabernet Sauvignon, Chardonnay, Pinot Noir]
+* Occasions: [insert occasions where you would like to drink the wine, e.g., special events, everyday drinking, cooking]
+* Expert-level suggestions: [insert level of expertise, e.g., beginner, intermediate, advanced]
+* Store Purchase Preference: [insert preferred store or shopping experience, e.g., online, in-store, wine shop]
+* Wine Type: [insert preferred type of wine, e.g., red, white, sparkling, dessert]
+* Wine Purchase Frequency: [insert how often you purchase wine]
+
+Once I have this information, I can provide personalized recommendations for three wines that match your taste profile.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u197347255,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2409:40d0:12eb:ef6d:8000::,IN,DL,Delhi,,,Android,Mobile Chrome,,mobile,https://www.winesecrethk.com/wine-menu/vincent-girardin-puligny-montrachet-village-vv-2020,https://www.winesecrethk.com/,,,,,,,1/12/2025 9:55,,,,1/12/2025 9:56,,,out,1/12/2025 9:56,0,,,,,,,HKD 1000 or Above,,,,,Celebration,,S1,,,,,,,,Red,,,,"1.  Chateau Lafite Rothschild 2014 (HKD 550 - HKD 650 per bottle) - A classic Bordeaux from one of the most prestigious wine estates in the world, known for its complexity and aging potential.
+2.  Opus One 2015 (HKD 680 - HKD 780 per bottle) - A high-end red blend from a collaboration between Robert Mondavi Winery and Baron Philippe de Rothschild, offering a rich and full-bodied taste experience.
+3.  Chateau Mouton Rothschild 2010 (HKD 950 - HKD 1050 per bottle) - Another iconic Bordeaux wine from the Pauillac region, known for its rich flavors of dark fruit, spices, and smooth tannins.
+
+All three wines are high-end reds that would be suitable for special occasions like celebrations. They have complex flavor profiles and a good aging potential, making them worth investing in for wine enthusiasts.","A user has the following taste profile:
+- Budget: HKD 1000 or Above
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: Celebration
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u201800581,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Kolkata,2409:40d0:21:1bc3:e5db:6c13:e6b7:da1d,IN,DL,Delhi,,,iOS,Mobile Safari,Apple,mobile,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::live::68447,,,,,,,1/19/2025 12:11,,,,1/19/2025 12:12,1/19/2025 12:13,,agent,1/19/2025 12:13,68447,AI_ChatBot,gauravbidalia@gmail.com,,,,,,,,,,,,s5,,,,,,,,,,,,"1. **Chardonnay** from Burgundy, France: A classic choice for many wine drinkers. Chardonnay is a versatile wine that can range from buttery and oaky to crisp and citrusy. Its acidity and fruit flavors make it a great pairing for various dishes.
+2. **Pinot Noir** from Willamette Valley, Oregon, USA: Pinot Noir is a light-bodied red wine known for its elegance and complexity. It often exhibits flavors of cherry, raspberry, and earthy notes, making it a great choice for those who prefer a lighter red wine.
+3. **Sauvignon Blanc** from Marlborough, New Zealand: This crisp and refreshing white wine is perfect for those who enjoy citrus and grassy flavors. Its acidity makes it an excellent pairing for seafood, salads, or as an apéritif.
+
+Please note that these recommendations are general suggestions and may not align with your personal taste preferences. If you provide more information about your preferences, I'd be happy to offer more tailored suggestions!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: s5
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u204838057,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,119.247.101.196,HK,NKT,Kwai Chung,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,1/23/2025 12:42,,,,1/23/2025 12:42,,,out,1/23/2025 12:42,0,,,,,,,HKD100-200,,,,,daily drinking,,S1,,,,,,,,White,,,,"1. **Albariño from Spain**: This crisp and refreshing wine is perfect for daily drinking. Its citrus and stone fruit flavors will complement a variety of meals or be enjoyed on its own.
+2. **Gewürztraminer from Alsace, France**: This aromatic white wine offers a sweet and spicy flavor profile that's sure to please. Its floral notes and hint of lychee make it an excellent choice for everyday drinking.
+3. **Vermentino from Italy**: With its herbaceous and citrus flavors, this Italian white wine is perfect for those who prefer a lighter-bodied wine. Its crisp acidity makes it an excellent pairing for seafood or salads.
+
+All three wines are available within your budget of HKD100-200 and can be found at most wine stores in Hong Kong.","A user has the following taste profile:
+- Budget: HKD100-200
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: daily drinking
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: White
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u213274941,1.74E+16,Alex W,,,,,,web,open,,en-US,Asia/Hong_Kong,219.77.77.185,HK,HCW,Central,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,2/5/2025 7:14,,,,2/5/2025 7:15,,,out,2/5/2025 7:15,0,,,,,,,,,,,,,,S2,,,,,,,,,,,,"1. **Chardonnay - Kendall-Jackson Vintner's Reserve**: A rich and buttery Chardonnay with flavors of vanilla, caramel, and a hint of oak. Its creamy texture and balanced acidity make it a great match for those who enjoy oaky whites.
+2. **Cabernet Sauvignon - Silver Oak Alexander Valley**: A full-bodied Cabernet Sauvignon with dark fruit flavors, spice, and subtle tannins. This wine is perfect for those who appreciate complex, velvety textures and flavors of blackberry, black cherry, and subtle vanilla notes.
+3. **Pinot Noir - Domaine Serene Yamhill Pinot Noir**: A light-bodied Pinot Noir with delicate flavors of strawberry, raspberry, and earthy undertones. This wine is ideal for those who prefer a more elegant and refined red wine experience.
+
+Please note that these are just general recommendations based on popular taste profiles. If you'd like more specific suggestions or have any additional information about your preferences, feel free to provide it!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u215169611,1.74E+16,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,14.0.164.233,HK,KKT,Sau Mau Ping,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,2/8/2025 10:53,,,,2/8/2025 10:54,,,out,2/8/2025 10:54,0,,,,,,,HKD500-1000,,Steak,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Penfolds Bin 28 Kalimna Shiraz**: This Australian Shiraz is a great match for steak, with its rich, full-bodied flavors and smooth tannins. The wine's dark fruit flavors, spice, and subtle oak notes will complement the charred flavor of grilled steak.
+2. **Château Saint-Pierre Saint-Julien**: This Bordeaux blend from France offers a classic combination of Cabernet Sauvignon, Merlot, and Petit Verdot. Its smooth tannins and balanced acidity make it an excellent pairing for steak, while its flavors of dark fruit, spice, and subtle earthiness will add depth to the dish.
+3. **Apothic Red Blend**: This California red blend is a modern twist on traditional Bordeaux-style wines. It's made from a mix of Syrah, Merlot, and Cabernet Sauvignon grapes and offers a rich, fruity flavor profile with hints of spice and chocolate. Its smooth tannins and approachable style make it an excellent choice for a quick dinner.
+
+All three wines should be available within your budget (HKD500-1000) and will pair well with steak.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Steak
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u219278921,1.73729E+14,è¿åä¸»é¸å®,,,,,,web,open,,,Asia/Hong_Kong,119.236.56.124,HK,HCW,Central,,,macOS,Chrome,Apple,Desktop,,https://www.uchat.com.au/p/web/fyoxtdcglnyrz6w5?ref=-uflow::main::draft::68447,,,,,,,2/15/2025 1:16,,,,2/15/2025 1:16,,,out,2/15/2025 1:16,0,,,TRUE,,,,HKD200-500,,Beef Wellington,,,Quick Dinner,TRUE,Language: EN,,,,,,,,Red,,,,"1.  **Chateau La Tour Carnet Haut-Medoc** (2015) - This wine is a perfect match for Beef Wellington due to its rich flavors of blackberry and dark chocolate, complementing the tender beef and flaky pastry.
+2.  **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon** (2014) - With its elegant balance of acidity and tannins, this wine will pair nicely with the savory beef and rich flavors of the Wellington.
+3.  **Chateau Clerc Milon Pauillac** (2012) - This Bordeaux blend offers a complex mix of dark fruit flavors, spice, and subtle oak notes that will complement the umami flavors of the dish.
+
+These recommendations are expert-level suggestions based on your preferences for Beef Wellington, Red wine, and a budget of HKD200-500. Enjoy!","A user has the following taste profile:
+- Budget: HKD200-500
+- Difficulty Picking: nan
+- Food: Beef Wellington
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: True
+- Scenario: Language: EN
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u219304799,1.74E+16,Gvb',,,,,,web,open,,en-US,Asia/Hong_Kong,124.217.189.231,HK,HEA,Tai Hang,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,2/15/2025 2:48,,,,2/28/2025 17:30,,,out,2/28/2025 17:30,0,,,,,,,HKD500-1000,,Beef Marsala,,,Quick Dinner,,S2,,,,,,,,Sparkling,,,,"1. **Veuve Clicquot Yellow Label Brut Champagne**: A classic pairing for rich flavors like beef marsala, this champagne offers a balanced blend of citrus and toast notes.
+2. **Graham Beck Brut Rosé Sparkling Wine**: This South African sparkler has a lovely salmon color and flavors of strawberry, red apple, and a hint of brioche that will complement the savory aspects of Beef Marsala.
+3. **Lanson Black Label Brut Champagne**: A well-regarded champagne with a rich, toasty flavor profile and a crisp finish, making it an excellent match for the bold flavors of beef marsala.
+
+Please note that these suggestions are based on general pairing principles rather than specific taste preferences or grape varieties you may have mentioned but didn't. If you'd like more tailored recommendations, please feel free to provide your personal wine preferences.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: Beef Marsala
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S2
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Sparkling
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u224513923,1.74E+16,Guest,,,,,,web,open,,zh-HK,Asia/Hong_Kong,119.247.101.196,HK,NKT,Kwai Chung,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,2/22/2025 8:22,,,,2/28/2025 8:13,,,out,2/28/2025 8:13,0,,,,,,,,,hi,,,Quick Dinner,,S1,,,,,,,,,,,,"1. **Apothic Red Blend**: This wine is a great match for you because of its high food-pairing score and versatility in pairing with a variety of dishes. Apothic Red Blend is a smooth and approachable wine made from a blend of Syrah, Merlot, and Cabernet Sauvignon grapes.
+2. **Duckhorn Vineyards Three Palms Vineyard Cabernet Sauvignon**: This wine stands out for its high-quality score and ability to pair well with food. It's a rich and full-bodied Cabernet Sauvignon made from grapes grown in the renowned Napa Valley region.
+3. **Cakebread Cellars Merlot**: This wine is recommended due to its excellent pairing capabilities and smooth flavor profile. Cakebread Cellars Merlot is a classic example of a well-made Merlot, with flavors of plum, blackberry, and spice.
+
+These wines are all suitable for quick dinner occasions and are likely to please even the most discerning palates.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: hi
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u224560125,1.74E+16,Guest,,,,,,web,open,,zh-HK,Asia/Hong_Kong,202.4.202.222,HK,HEA,Quarry Bay,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,2/22/2025 11:14,,,,2/22/2025 11:14,,,out,2/22/2025 11:14,0,,,,,,,,,,,,,,S1,,,,,,,,,,,,"**
+
+I'd be happy to help you find some wine recommendations that match your taste profile. However, it seems like you haven't provided any information about your preferences.
+
+To get started, could you please provide me with some details about what you're looking for? For example:
+
+* What type of wine do you usually enjoy (red, white, sparkling)?
+* Do you have a preferred sweetness level or acidity in your wines?
+* Are there any specific food pairings you'd like to match the wine with?
+* Are you open to trying new and exotic grape varieties or do you prefer more traditional options?
+
+Once I have a better understanding of your taste preferences, I can provide you with three personalized wine recommendations along with a short reason for each.","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u224560441,1.73434E+15,Guest,,,,,,web,open,,en-GB,Asia/Hong_Kong,202.4.202.222,HK,HEA,Quarry Bay,,,macOS,Chrome,Apple,Desktop,,https://www.winesecrethk.com/,,,,,,,2/22/2025 11:15,,,,2/22/2025 11:15,,,out,2/22/2025 11:15,0,,,,,,,,,,,,,,,,,,,,,,,,,,"Since there's no input provided, I'll make some general assumptions to provide three wine recommendations that cater to a diverse taste profile. Please note that the actual preferences might vary based on specific information. Here are my suggestions:
+
+**Recommendation 1:** **Sauvignon Blanc - Kim Crawford Sauvignon Blanc (Marlborough, New Zealand)**
+This crisp and refreshing white wine is perfect for those who enjoy citrusy flavors with a hint of grassiness. Its acidity makes it an excellent choice for pairing with seafood or salads.
+
+**Recommendation 2:** **Pinot Noir - Meiomi Pinot Noir (California, USA)**
+For red wine enthusiasts, this Pinot Noir offers a balanced blend of dark fruit flavors and subtle earthy notes. Its light to medium body makes it approachable for those who prefer smoother tannins.
+
+**Recommendation 3:** **Merlot-Cabernet Blend - Apothic Red Blend (California, USA)**
+This full-bodied red wine is ideal for those who enjoy a rich, fruity taste with hints of spice and chocolate. Its smooth finish and moderate acidity make it suitable for pairing with grilled meats or robust cheeses.
+
+These recommendations offer a range of flavor profiles to suit diverse tastes. Feel free to provide more specific information if you'd like me to adjust the suggestions!","A user has the following taste profile:
+- Budget: nan
+- Difficulty Picking: nan
+- Food: nan
+- Grape Breed: nan
+- Occasions: nan
+- Expert-level suggestions: nan
+- Scenario: nan
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: nan
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
+f83423u227981589,1.74E+16,Guest,,,,,,web,open,,en-US,Asia/Hong_Kong,182.239.87.56,HK,NST,Tai Shui Hang,,,iOS,Mobile Safari,Apple,mobile,,https://www.winesecrethk.com/,,,,,,,2/28/2025 9:00,,,,2/28/2025 9:01,,,out,2/28/2025 9:01,0,,,,,,,HKD500-1000,,beef,,,Quick Dinner,,S1,,,,,,,,Red,,,,"1. **Penfolds Koonunga Hill Shiraz**: This Australian Shiraz is a great pairing for beef dishes. With its dark fruit flavors and subtle spices, it complements the richness of beef without overpowering it.
+2. **Château Saint-Pierre Saint-Julien**: This Bordeaux blend from France offers a balanced flavor profile with notes of blackberry, black cherry, and hints of spice. Its smooth tannins make it a great match for grilled or pan-seared beef.
+3. **Masi Campofiorin**: This Italian Valpolicella is a medium-bodied wine with flavors of dark fruit, leather, and subtle earthy notes. Its moderate acidity and smooth tannins make it an excellent pairing for beef-based dishes.
+
+All three wines should be available within your budget range (HKD500-1000) and are suitable for a quick dinner occasion.","A user has the following taste profile:
+- Budget: HKD500-1000
+- Difficulty Picking: nan
+- Food: beef
+- Grape Breed: nan
+- Occasions: Quick Dinner
+- Expert-level suggestions: nan
+- Scenario: S1
+- Store Purchase Preference: nan
+- Dislike: nan
+- Wine Type: Red
+- Wine Purchase Frequency: nan
+- Wines Not Liking: nan
+
+Based on this profile, suggest 3 wines that match and provide a short reason for each recommendation.
+nan means not specified, so just use the non-nan inputs as reference"
